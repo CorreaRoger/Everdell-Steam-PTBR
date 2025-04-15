@@ -1,0 +1,1484 @@
+#_=_
+addfriend.addplayername=Adicionar nome do jogador
+appirater.body=Gostando de Everdell? Por favor, reserve um momento para avaliá-lo.
+te.to=Avalie o aplicativo
+appirater.ratebutton=Avalie o aplicativo
+appirater.rejectbutton=Não, obrigado
+appirater.remindbutton=Lembrar-me mais tarde
+button.accept=Aceitar
+button.account=Conta
+button.back=Voltar
+button.block=Bloquear
+button.cancel=Cancelar
+button.challengemenu=Menu de desafios
+button.clickcontinue=Clique para continuar
+button.close=Fechar
+button.confirm=Confirmar
+button.continue=Continuar
+button.exit=Sair
+button.invite=Convidar
+button.invitefriend=Convidar amigos
+button.joingame=Entrar no jogo
+button.mainmenu=Menu principal
+button.newtag=NOVO
+button.no=Não
+button.ok=Ok
+button.pass=Passar
+button.play=Jogar
+button.quit=Sair Jogo
+button.replay=Repetir
+button.resign=Renunciar
+button.rules=Regras
+button.saveandquit=Salvar e Sair
+button.shop=Loja
+button.skip=Pular
+button.submit=Enviar
+button.tutorial=Tutorial
+button.viewresults=Ver Resultados
+button.yes=Sim
+challenges.startgame=Iniciar Jogo
+changePassword.newPassword=Nova Senha
+changePassword.oldPassword=Senha Antiga
+changePassword.title=Alterar Senha
+code.redeem.equip.immediate=
+createaccount.reenterpassword=Redigitar Senha
+createaccount.screenname=Tela Nome
+critter.name.Hedgehog=Ouriço
+critter.color.Hedgehog=#C65DF5
+critter.name.Mouse=Rato
+critter.color.Mouse=#FE8B00
+critter.name.Squirrel=Esquilo
+critter.color.Squirrel=#E72F2F
+critter.name.Turtle=Tartaruga
+critter.color.Turtle=#66A2FF
+critter.color.Rugwort=#fff6c3
+dialogmessages.acceptfriend.failure=Erro ao aceitar o convite de amizade.
+dialogmessages.addfriend.accountnotfound=Erro ao enviar o convite de amizade: Conta não encontrada.
+dialogmessages.addfriend.inviteexists=Convite já enviado para este usuário.
+dialogmessages.addfriend.invitefailure=Erro ao enviar o convite de amizade.
+dialogmessages.aitakeover=Você ficou sem tempo para fazer uma jogada, então sua vez foi ocupada por uma IA. Faça sua próxima jogada no tempo permitido ou você será removido do jogo.
+dialogmessages.cancelfriendrequest.failure=Erro ao cancelar a solicitação de amizade.
+dialogmessages.changepassword.success=Sua senha foi alterada com sucesso.
+dialogmessages.continuegame.failure=Não foi possível conectar ao jogo. Erro: {0}
+dialogmessages.continuegame.playeractivationfailure=
+dialogmessages.feedback.success=Obrigado pelo feedback.
+dialogmessages.feedback.timeout=Ocorreu um erro ao enviar seu feedback.
+dialogmessages.invitefriend.failure=Não foi possível enviar o convite, tente novamente mais tarde.
+dialogmessages.invitefriend.success=Convite enviado!
+dialogmessages.leaderboard.failure=Não foi possível recuperar o placar neste momento.
+dialogmessages.lobbyended.message=O lobby que você estava visualizando não existe mais.
+dialogmessages.login.errors.couldnotconnect=Não foi possível conectar ao servidor de autorização. Tente novamente mais tarde.
+dialogmessages.login.errors.default=Não foi possível efetuar login neste momento.
+dialogmessages.login.errors.gatewaydown=Não foi possível conectar ao gateway.
+dialogmessages.login.errors.invalidlogin=Nome de usuário ou senha inválidos.
+dialogmessages.login.errors.ipbanned=Não foi possível conectar a partir deste IP.
+dialogmessages.login.errors.maintenance=Não foi possível conectar, o servidor está em manutenção.
+dialogmessages.login.errors.serverfull=Não foi possível conectar, os servidores estão cheios neste momento.
+de=Não foi possível efetuar login. Certifique-se de que seu cliente esteja atualizado.
+dialogmessages.passwordpolicy=Sua senha deve ter pelo menos 6 caracteres, ser maiúscula e conter letras e números.
+dialogmessages.registration.authunavailable=Não foi possível conectar ao servidor de autorização. Tente novamente mais tarde.
+dialogmessages.registration.failure=Não foi possível criar conta:\n {0}
+dialogmessages.registration.thanksnewaccount=Obrigado por se registrar!
+dialogmessages.registration.toomanyrequests=Muitas solicitações. Tente novamente em 15 minutos.
+dialogmessages.removefriend.failure=Erro ao remover amigo.
+dialogmessages.resetpassword.info=Verifique seu e-mail para obter mais instruções.
+dialogmessages.resignfromgame.failure=Não foi possível sair do jogo. Verifique sua conexão de rede.
+direbytes.header=Notícias do Lobo Terrível
+direbytes.link=Link
+direbytes.none=Sem Notícias do Lobo Terrível
+direbytes.store=Loja
+disconnect.defaultReason=Conexão com o servidor perdida
+disconnect.idleTimeout=Você foi removido deste jogo por exceder o seu tempo limite de turnos em dois turnos consecutivos.
+connect.idleTimeout.firstTurn=Você foi removido deste jogo por exceder o tempo limite do seu primeiro turno.
+connect.timeout=Conexão esgotada
+friends.acceptRequest=Aceitar solicitação de amizade
+friends.addfriend=Adicionar amigo
+friends.areYouSure=Tem certeza?
+friends.cancelRequest=Cancelar solicitação de amizade
+friends.category.count.label=({0})
+friends.category.invites=Convites
+friends.category.offline=Offline
+friends.category.online=Online
+friends.declineRequest=Recusar solicitação de amizade
+friends.emailPlaceholder=E-mail ou código de amizade
+friends.invitationSent=Convite enviado!
+friends.invite=Convidar
+friends.inviteFriends.send=Enviar
+friends.removeFriend=Remover amigo
+friends.title=Amigos
+game.over.prompt.confirm=Sair do jogo
+gameoptions.AIdifficulty=Dificuldade da IA
+gameoptions.AIdifficulty=Dificuldade da IA
+gameoptions.AIdifficultyEasy=Fácil
+gameoptions.AIdifficultyHard=Difícil
+gameoptions.AIdifficultyMedium=Médio
+gameoptions.creategame=Criar Jogo
+gameoptions.joinGame=Entrar no Jogo
+gameoptions.password.label=Senha (Opcional)
+gameoptions.password.placeholder=Senha Opcional
+gameoptions.startgame=Iniciar Jogo
+gameoptions.timer.fast=Ao Vivo
+gameoptions.timer.slow=Assíncrono
+gameoptions.turntimer=Temporizador de Turnos
+header.campaign=Campanha
+leaderboards.friendsonly=Somente Amigos
+lobby.nogames.label=Sem Jogos
+lobby.resign.confirmation=Tem certeza de que deseja sair deste jogo?
+lobby.timerdisplay.daysformat={0}d
+lobby.timerdisplay.hoursformat={0}h
+lobby.timerdisplay.minsformat={0}m
+login.email=E-mail
+login.error.invalidEmail=Erro: E-mail inválido
+login.error.invalidPassword=Erro: A senha deve ter pelo menos 6 caracteres e conter letras e números.
+login.error.invalidUsername=Erro: Nome de usuário inválido
+login.error.passwordMismatch=Erro: As senhas não correspondem
+login.forgotpassword=Esqueci a senha
+login.forgotpassword.reset=Redefinir
+login.loggedInAs=Conectado como: {0}
+login.logoutbutton=Sair
+login.newaccount=Nova conta
+login.password=Senha
+login.title.change.user=Alterar usuário
+login.title.create.account=Criar conta
+login.title.log.in=Entrar
+mainmenu.leaderboards=Placar de classificação
+mainmenu.localplay=Jogo local
+mainmenu.onlineplay=Jogo online
+match.start.failure=Falha ao carregar a partida
+multiplayer.activetab=Ativo
+multiplayer.blockplayer=Bloquear {0} ocultará suas mensagens. Esta ação não pode ser desfeita. Tem certeza de que deseja bloquear este usuário?
+multiplayer.browsertab=Navegador
+multiplayer.columnbanned=Banido
+multiplayer.columnname=Nome
+multiplayer.columnplayers=Jogadores
+multiplayer.columntimer=Temporizador
+multiplayer.friendgame=Criar Partida com Amigos
+multiplayer.friendgame.description=Convide até três amigos para jogarem juntos.
+multiplayer.gameCompleted.1=Seu jogo com {0} foi concluído. Ver os resultados?
+multiplayer.gameCompleted.2=Seu jogo com {0} e {1} foi concluído. Ver os resultados?
+multiplayer.gameCompleted.3=Seu jogo com {0}, {1} e {2} foi concluído. Ver os resultados?
+multiplayer.gameCompletedTitle=Jogo Concluído
+multiplayer.globalchat=Bate-papo Global
+multiplayer.goToGame=Ir para o Jogo
+multiplayer.live.matchResigned=Você foi removido desta partida por inatividade.
+multiplayer.matchCreated=Você foi convidado para uma partida entre amigos com {0}. Ir para essa partida agora?
+multiplayer.matchCreated.2=Sua partida com {0} foi criada. Ir para essa partida agora?
+multiplayer.matchCreated.3=Sua partida com {0} e {1} foi criada. Ir para essa partida agora?
+multiplayer.matchCreated.4=Sua partida com {0}, {1} e {2} foi criada. Ir para essa partida agora?
+multiplayer.matchJoined.2=Você entrou em uma partida com {0}. Ir para essa partida agora?
+multiplayer.matchJoined.3=Você entrou em uma partida com {0} e {1}. Ir para essa partida agora?
+multiplayer.matchJoined.4=Você entrou em uma partida com {0}, {1} e {2}. Quer ir para essa partida agora?
+multiplayer.matchremoved=Esta partida não existe mais.
+multiplayer.matchResigned.2=Você foi demitido da sua partida com {0}.
+multiplayer.matchResigned.3=Você foi demitido da sua partida com {0} e {1}.
+multiplayer.matchResigned.4=Você foi demitido da sua partida com {0}, {1} e {2}.
+multiplayer.openspot={0}
+multiplayer.passandplay=Passar e Jogar
+multiplayer.playonline=Jogo Online
+multiplayer.reportplayer={0} foi bloqueado. Gostaria de denunciar este jogador?
+multiplayer.reportplayer.describe=Descreva o motivo da sua denuncia.
+multiplayer.reportplayer.reason.abusive=Mensagens de bate-papo abusivas ou inapropriadas
+multiplayer.reportplayer.reason.cheating=Suspeita de trapaça ou botting
+multiplayer.reportplayer.reason.griefing=Luto ou jogo lento intencional
+multiplayer.reportplayer.reason.inappropriateusername=Nome de usuário inapropriado
+multiplayer.showPasswordGames=Mostrar jogos com senha
+multiplayer.yourTurn.1=Parece que é sua vez em uma partida. Ir para essa partida agora?
+multiplayer.yourTurn.2=Parece que é sua vez em uma partida com {0}. Ir para essa partida agora?
+multiplayer.yourTurn.3=Parece que é sua vez em uma partida com {0} e {1}. Ir para essa partida agora?
+multiplayer.yourTurn.4=Parece que é sua vez em uma partida com {0}, {1} e {2}. Ir para essa partida agora?
+multiplayer.yourTurn.friendMatchStart.2=Você foi convidado para uma Partida Amistosa com {0}. É a sua vez! Quer ir para essa partida agora?
+multiplayer.yourTurn.friendMatchStart.3=Você foi convidado para uma Partida Amistosa com {0} e {1}. É a sua vez! Quer ir para essa partida agora?
+multiplayer.yourTurn.friendMatchStart.4=Você foi convidado para uma Partida Amistosa com {0}, {1} e {2}. É a sua vez! Quer ir para essa partida agora?
+name.ai.Hedgehog=Ouriço
+name.ai.Hedgehog.easy=Ouriço (Fácil)
+name.ai.Hedgehog.hard=Ouriço (Difícil)
+name.ai.Hedgehog.medium=Ouriço (Médio)
+name.ai.Mouse=Rato
+name.ai.Mouse.easy=Rato (Fácil)
+name.ai.Mouse.hard=Rato (Difícil)
+name.ai.Mouse.medium=Rato (Médio)
+name.ai.Squirrel=Esquilo
+name.ai.Squirrel.easy=Esquilo (Fácil)
+name.ai.Squirrel.hard=Esquilo (Difícil)
+name.ai.Squirrel.medium=Esquilo (Médio)
+name.ai.Turtle=Tartaruga
+name.ai.Turtle.easy=Tartaruga (Fácil)
+name.ai.Turtle.hard=Tartaruga (Difícil)
+name.ai.Turtle.medium=Tartaruga (Médio)
+name.ai.Rat=Rato
+name.ai.Rat.easy=Rato (Fácil)
+name.ai.Rat.medium=Rato (Médio)
+name.ai.Rat.hard=Rato (Difícil)
+network.checkConnection=Verifique sua conexão de rede.
+network.errors.generic=Sua conexão expirou. Verifique sua conexão com a internet e certifique-se de que o relógio do sistema esteja configurado corretamente e tente novamente.
+online.lobbypassword.enter=Digite a senha do lobby
+player.name.self=Você
+playonline.availablegames.game=Jogo de {0}
+playonline.confirmresign=Tem certeza de que deseja sair desta partida?
+playonline.cpuplayer.label=IA
+playonline.error.cannotcreateasyncgame=Você já está aguardando em outro lobby de jogo assíncrono.
+playonline.error.cannotcreatelivegame=Você já está aguardando em outro lobby de jogo ao vivo.
+playonline.error.waitingoncasual=Você já está aguardando o início de outro jogo assíncrono.
+playonline.humanplayer.label=Aberto
+playonline.joinedplayer.label=<color=#FFFFFF>{0}</color>
+playonline.matchCreated=Partida criada:
+playonline.matchFound=Partida encontrada:
+playonline.matchResigned=Partida encerrada:
+playonline.offplayer.label=Fechado
+playonline.optionHeader.password=Senha
+playonline.waitingplayer.label=<color=#3F3F3F>Aguardando jogador</color>
+playonline.yourTurn=Sua vez:
+playsolo.match.startfailure=Não foi possível carregar o jogo.
+prompt.continuesaved.buttonnewgame=Novo jogo
+prompt.continuesaved.desc=Você tem um jogo salvo em andamento. Deseja continuar o jogo ou excluí-lo e iniciar um novo?
+prompt.continuesaved.title=Continuar Jogo
+prompt.first.live.game=Bem-vindo ao seu primeiro jogo ao vivo. Você tem 3 minutos para completar um turno. Se exceder esse tempo, seu turno será ocupado por uma IA. Se uma IA ocupar seu turno duas vezes seguidas, você será demitido. Divirta-se e certifique-se de não ir a lugar nenhum!
+prompt.leaderboard.name.label=Nome
+prompt.leaderboard.rank.label=Classificação
+prompt.leaderboard.score.label=Pontuação
+prompt.platformchange.warning=Esta configuração pode fazer com que a interface do usuário apareça incorretamente em certos dispositivos e não pode ser alterada no jogo. Tem certeza de que deseja prosseguir?
+prompt.readylivegame=Seu jogo ao vivo está pronto. Como os tempos de turno são curtos, você deve ir para lá agora ou desistir.
+prompts.gameresults.title=Fim de Jogo
+prompts.loginfailure.eulanotaccepted=Aceite o Contrato de Licença de Usuário Final (EULA) para efetuar login.
+prompts.loginfailure.nocredentials=
+prompttitles.generic.success=Sucesso
+quitapplication.confirm.message=Tem certeza de que deseja sair?
+rankedselect.errors.connectfailed=Sua conexão expirou. Verifique sua conexão com a internet e tente novamente.
+resource.berries=Frutas Vermelhas
+resource.pebbles=Pedrinhas
+resource.resin=Resina
+resource.twigs=Galhos
+settings.aispeed.fast=Rápido
+settings.aispeed.header=Velocidade da IA
+settings.aispeed.normal=Normal
+settings.aispeed.slow=Lento
+settings.android.uiscale=Escala da IU
+settings.android.uiscale.0=Pequeno
+settings.android.uiscale.1=Grande
+settings.audio.mastervolume=Volume Geral
+settings.audio.effectsvolume=Volume dos Efeitos
+settings.audio.musicvolume=Volume da Música
+settings.audio.ambiencevolume=Volume do Ambiente
+settings.audio.mute=Mudo
+settings.audio.title=Áudio
+settings.clientversion=Cliente Versão:
+settings.eula=EULA
+settings.feedback=Feedback
+settings.feedback.email.placeholder=E-mail
+settings.feedback.placeholder=Digite o problema aqui. Inclua o modo de jogo quando aplicável.
+settings.feedback.send=Enviar
+settings.feedback.sendlogs=Enviar Logs
+settings.gameplay.title=Jogabilidade
+settings.gen.title=Geral
+settings.languages=Idiomas
+settings.login=Entrar
+settings.pc.confirmation.body=Deseja manter estas configurações de exibição? Revertendo para as configurações anteriores em {0} segundos.
+settings.pc.graphics.high=Alto
+settings.pc.graphics.low=Baixo
+settings.pc.graphics.medium=Médio
+settings.pc.vsync=Sincronização Virtual
+settings.pc.windowed=Em Janela
+settings.serverversion=Versão do Servidor:
+settings.toggle.warnings=Avisos de Jogo
+settings.disablewarnings=Desativar Avisos
+settings.toggle.controllersupport=Suporte ao Controle
+settings.video.quality=Qualidade
+settings.video.resolution=Resolução
+settings.video.title=Vídeo
+singleplayer.difficulty.easy=Normal
+singleplayer.difficulty.hard=Lendário
+singleplayer.difficulty.label=Dificuldade: {0}
+singleplayer.difficulty.medium=Heroico
+singleplayer.header.label=Desafios
+solooptions.play=Jogo Solo
+solooptions.rugwort=Provas de Rugwort
+solooptions.singleplayer=Desafios
+stinger.deck.shuffled=A pilha de descarte foi embaralhada no baralho!
+stinger.opponent.achieved={0} Conquistado: {1}
+stinger.opponent.played={0} Jogado: {1}
+store.restorePurchases=Restaurar Compras
+store.restorePurchasesError.default=Ocorreu um erro. Verifique sua conexão com a internet e tente novamente.
+tutorial.advanced.separator=
+tutorial.prompt.complete=O tutorial foi concluído. Teste seus conhecimentos no modo Desafio?
+waitingforplayers.aidifficulty.label=Dificuldade da IA: {0}
+waitingforplayers.invalidePlayerState=Ocorreu um erro. Tente novamente.
+waitingforplayers.joinconfirmation=Jogo ingressado! Use o botão Voltar para sair desta tela e ser notificado quando o seu jogo começar!
+waitingforplayers.password.label=Senha protegida
+waitingforplayers.timer.label=Limite de tempo de turno: {0}
+account.error.usernametaken=Conta já existente
+authError.screenNameProfanityCheck=Nome da conta viola as regras.
+playonline.async.description=<size=125%><b>Assíncrono</b></size><br>Ideal para quem quer jogar uma partida em vários dias. Os jogadores têm 3 dias para completar um turno em uma partida assíncrona. Se um jogador exceder esse tempo, ele será removido do jogo e substituído por uma IA.
+
+playonline.live.description=<size=125%><b>Ao Vivo</b></size><br>Ideal para quem quer jogar uma partida em uma única sessão. Os jogadores têm 3 minutos para completar um turno em uma partida ao vivo. Se um jogador exceder esse tempo, sua vez será jogada por uma IA. Se uma IA jogar por um jogador duas vezes seguidas ou um jogador não jogar o primeiro movimento do jogo, esse jogador será substituído permanentemente pela IA.
+landing.grm=Abrir o aplicativo Dire Wolf Game Room
+
+prompts.playerturn.nameformat=Vez de {0}
+account.changepassword.failed.invalidOldPassword=A senha antiga não corresponde
+add.player=Adicionar jogador
+ai.turn=Vez da IA
+android.externalpermissions.query=Como este aplicativo está em um armazenamento externo, é recomendável conceder permissão ao armazenamento externo para que o aplicativo seja atualizado sem precisar reinstalá-lo.
+android.externalpermissions.reminder=Este aplicativo deve solicitar permissão novamente na próxima vez que for iniciado?
+android.externalpermissions.warning=As permissões para permitir acesso ao armazenamento externo para este aplicativo podem ser alteradas nas Configurações do aplicativo Android.
+appUpdate.description=Uma nova versão está disponível. Atualize para acessar o jogo online.
+appUpdate.offline=Jogar offline
+appUpdate.update=Atualizar
+authError.invalidEmail=O endereço de e-mail fornecido é inválido.
+authError.invalidPassword=Sua senha deve ter pelo menos 8 caracteres, ser maiúscula e conter letras e números.
+authError.invalidScreenName=Seu nome de usuário deve ter entre 5 e 24 caracteres e não pode conter caracteres especiais.
+authError.unexpected=Ocorreu um erro inesperado.
+auto.update.body=Uma atualização está disponível.
+auto.update.body.forced=Uma atualização é necessária para continuar.
+auto.update.confirm=Atualizar
+block.player=Bloquear Jogador
+button.add=Adicionar
+button.decline=Recusar
+button.done=Concluído
+button.hints=Dicas
+button.join=Entrar
+button.later=Mais Tarde
+button.more=Mais Informações
+button.next=Próximo
+button.Rankings=Classificações
+button.singleplayer.vsai=Versus AI
+button.undo=Desfazer
+button.viewachievements=Conquistas
+challenges.allComplete=Parabéns, você completou todos os desafios!
+challenges.win=Ganhe {0} jogos.
+challenges.winagame=Ganhe um jogo.
+configuresolo.four=4 Jogadores
+configuresolo.three=3 Jogadores
+configuresolo.two=2 Jogadores
+create.game.error.cannotcreatesecondasyncgame=Você só pode criar um jogo assíncrono por vez. Aguarde o início do seu jogo ou saia dele.
+create.game.error.cannotcreatesecondgame=Você só pode criar um jogo por vez. Aguarde o início do seu jogo ou saia dele.
+create.game.error.cannotcreatesecondlivegame=Você só pode jogar uma partida ao vivo por vez. Desista da sua partida ao vivo atual se desejar criar ou entrar em uma nova.
+create.game.error.cannotjoinsecondlivegame=Você só pode entrar em uma partida ao vivo por vez.
+creategame.coopmode=Jogo Cooperativo
+creategame.deckselection=Seleção de Deck
+creategame.mapselection=Seleção de Mapa
+creategame.matchsettings=Configurações da Partida
+demomenu.intro=Introdução
+dialogmessages.changepassword.failure=Erro ao alterar sua senha: {0}
+dialogmessages.continuegame.failure.gameended=O jogo terminou por não haver jogadores humanos restantes
+dialogmessages.decline.duplicate.account=Você não pode entrar no mesmo jogo duas vezes.
+dialogmessages.declinefriend.failure=Erro ao recusar o convite de amizade.
+dialogmessages.feedback.failure=Ocorreu um erro ao enviar seu feedback: {0}
+dialogmessages.playmat.timeout=Tempo limite ao tentar conectar ao jogo.
+dialogmessages.registration.accountexists=A conta já existe!
+dialogmessages.registration.noInternet=O dispositivo parece não estar conectado à Internet.
+dialogmessages.url.external=Visite {0} para mais informações.
+disconnect.duplicateLogin=Você não pode entrar no mesmo jogo duas vezes.
+disconnect.information=Não foi possível conectar-se ao jogo.
+disconnect.serverError=Erro do Servidor
+disconnect.title=Desconectado
+disconnect.userLogout=Usuário Desconectado
+dwd.referral.email.error.alreadyInvited=Você já convidou este jogador
+dwd.referral.email.error.throttled=Você atingiu o número máximo de convites do dia.
+dwd.referral.email.error.userDeclined=Este usuário optou por não receber convites.
+end.turn=Fim do Turno
+endofgame.1st!=1º!
+endofgame.defeat=Derrota!
+endofgame.title=Detalhes
+endofgame.victory=Vitória!
+friend.request.from=Solicitação de amizade: {0}
+friends.waitingForAcceptance=Aguardando a aceitação de {0}
+gameoptions.deck.standard=Padrão
+gameoptions.gametype=Selecione um tipo de jogo
+gameoptions.header=Opções de jogo
+gameoptions.numAIplayers=Jogadores IA
+gameoptions.numplayers=Jogadores Humanos
+gameoptions.resignConfirmed=Você desistiu.
+gameoptions.resigned=Desistiu
+gameoptions.resignMatch=Desistir da Partida?
+gamepad.disable=Deseja desativar o suporte para gamepad?
+gamepad.firstTimeActivation=Deseja ativar a entrada do controle?
+generic.completed=Concluído!
+header.options=Opções
+initialturn.tooltip.tutorial.switch=Pressione <sprite name="moz_button"> para saber mais sobre o edifício ou local de raide selecionado.
+input.placeholderText=Digite o texto...
+level.progression=Nível {0}: {1}
+lobby.aiplayer=Jogador IA
+lobby.availablegames=Jogos Disponíveis
+lobby.mode=Modo
+lobby.prompt.password=Você precisa digitar uma senha para entrar neste jogo.
+login.accountCreated=Conta Criada
+login.logout=Sair?
+login.register=Registrar
+login.register.newsletter=Inscreva-se na newsletter da Dire Wolf para receber ofertas exclusivas e as últimas novidades sobre os próximos jogos!
+login.registrationThanks=Obrigado
+mainmenu.moregames=Mais Jogos
+mainmenu.multiplayer=Multijogador
+mainmenu.news=Notícias
+moregames.header=Mais Jogos
+moz.tipIntro=Aqui vai uma dica!
+multiplayer.activegames=Jogos Ativos
+multiplayer.alreadyJoined=Já Inscrito
+multiplayer.overallRank=Geral
+multiplayer.ranked=Jogo Classificado
+multiplayer.searching=Procurando...
+next.game=Próximo Jogo
+nsa.accountRequired=Autenticação necessária
+nso.accountRequired=É necessária uma assinatura do Nintendo Switch Online para acessar os recursos online.
+passandplay.defaultplayer1.name=Jogador 1
+passandplay.defaultplayer2.name=Jogador 2
+passandplay.defaultplayer3.name=Jogador 3
+passandplay.defaultplayer4.name=Jogador 4
+playerhand.title=Mão de {0}
+playonline.afterJoin=O jogo começa assim que todos os jogadores estiverem inscritos.
+playonline.availablegames=Jogos Disponíveis
+playonline.casual.description=Jogos que acontecem ao longo de vários dias.
+playonline.casual.error.alreadycreatedone=Você só pode ter um jogo casual não iniciado no lobby por vez.
+playonline.casual.inqueue=Na Fila
+playonline.casual.join=Entre na fila e você será notificado quando for a sua vez.
+playonline.casual.joinqueue=Entrar na Fila
+playonline.casual.leavequeue=Sair da Fila
+playonline.casual.playersInQueue=Jogadores na Fila:
+playonline.continueGame=Continuar Online
+playonline.enteredQueue=Fila Entrada
+playonline.error.gamefull=Este jogo está cheio.
+playonline.error.maximum=Você atingiu o número máximo de jogos assíncronos que pode jogar simultaneamente.
+playonline.error.wrongpassword=A senha não corresponde.
+playonline.gamemode=Modo de Jogo
+playonline.gameStarting=O jogo está começando, aguarde.
+playonline.joinFailed=Não foi possível entrar no jogo. Verifique sua conexão com a internet.
+playonline.joininggame=Entrando no Jogo de {0}
+playonline.leftQueue=Esquerda da Fila
+playonline.mode=Modo
+playonline.namePlaceholder=Insira um Nome...
+playonline.nameYourPlayers=Nomeie seus Jogadores
+playonline.noavailablegames=Não há jogos disponíveis.
+playonline.optionHeader.game=Jogo
+playonline.optionHeader.status=Status
+playonline.optionHeader.type=Tipo
+playonline.playerNames=Nomes dos Jogadores
+playonline.queueFailed=Falha ao Entrar na Fila
+playonline.startnow=Começar Agora
+playonline.waiting.casualmatch=Partida Assíncrona - Esta partida começará assim que houver jogadores suficientes. Você será notificado quando for a sua vez.
+playonline.waiting.livematch=Partida Ao Vivo - Aguarde. Esta partida começará assim que houver jogadores suficientes.
+playonline.waitingForPlayers=Aguardando Jogadores
+playonline.waitingInQueue=Partida Entrada! Use o botão Voltar para sair desta tela e ser notificado quando sua partida começar!
+prompt.expand=Expandir
+prompt.login.banned=Sua conta foi banida.
+prompt.minimize=Minimizar
+prompt.time.out.removed.setup=Você foi removido desta partida por exceder o tempo limite de turnos durante a configuração.
+prompts.demolanding.playgame=Jogar
+prompts.demolanding.tutorial1=Tutorial 1 - Noções Básicas
+prompts.gameresults.coalitionwinner=Vitória da Coalizão
+prompts.gameresults.cooperativewinner=Vitória da Cooperativa
+prompts.gameresults.nowinner=Desistiu
+prompts.gameresults.tutorialcomplete=Tutorial Concluído
+prompts.passtoplayer.ai.text=Vez de {0}
+prompts.passtoplayer.text=Passar para {0}
+prompts.playerturn.yourturn=Sua Vez
+settings.about=Sobre
+settings.advancedgameplay=Jogabilidade Avançada
+settings.audio.muteMusic=Silenciar Música
+settings.audio.muteSound=Silenciar Som
+settings.audiovideo=Áudio/Vídeo
+settings.default=Padrão
+settings.dontShowAgain=Não mostrar esta mensagem novamente
+settings.enableControllerInput=Habilitar Entrada de Controle
+settings.gamesettings=Configurações do Jogo
+settings.matchtype=Tipo de Partida
+settings.matchtypeformat=Tipo de Partida: {0}
+settings.pc.confirmation.header=Configurações de Exibição Alteradas
+settings.pc.confirmation.keep=Manter
+settings.pc.confirmation.revert=Reverter
+settings.title=Configurações
+shop.cosmetics=Cosméticos
+shop.error=Falha ao carregar a loja. Verifique sua conexão e tente novamente mais tarde.
+shop.expansions=Expansões
+shop.featured=Destaque
+shop.noitems=Itens em breve!
+shop.purchase=Comprar
+shop.purchased=Comprado
+solooptions.tutorial1=Tutorial 1
+solooptions.tutorial2=Tutorial 2
+special.rules=Regras Especiais
+steam.initialize.genericerror=Steam não encontrado
+tax.message=Preço Inclui Imposto
+their.turn.indicator=A Vez Deles
+turn.indicator=A Vez de {0}
+tutorial.goals.title=Metas
+your.turn.indicator=Sua Vez
+login.deleteaccountbutton=Excluir Conta
+deleteaccount.confirm.message=Tem certeza de que deseja excluir sua conta?
+deleteaccount.complete.message=Verifique seu e-mail para concluir a exclusão da conta.
+settings.translation.support=Para obter informações sobre os parceiros de tradução da Everdell, visite www.direwolfdigital.com/everdell_loc
+deleteaccount.failed.message=Um erro de rede impediu que você excluísse sua conta. Tente novamente mais tarde.
+workerselect.title=Seleção de Trabalhador
+prompt.controllersupport.enable=Detectamos uma entrada para controle de jogo. Deseja ativar o suporte para controle de jogo?
+prompt.gameconfig.error.samecrittertype=Outro jogador já entrou com o mesmo tipo de trabalhador.
+button.dismiss=Dispensar
+multiplayer.reconnect=Você foi reconectado ao servidor. Deseja retomar o jogo?
+multiplayer.reconnect.2=Você foi reconectado ao servidor. Deseja retomar o jogo com {0}?
+multiplayer.reconnect.3=Você foi reconectado ao servidor. Deseja retomar o jogo com {0} e {1}?
+multiplayer.reconnect.4=Você foi reconectado ao servidor. Gostaria de continuar seu jogo com {0}, {1} e {2}?
+button.learnmore=Saiba Mais
+gameoptions.expansions=Expansões
+generic.or=ou
+expansions.extraextra=Extra! Extra!
+expansions.legendsexpansion=Expansão Legends
+expansions.rugwortcards=Cartas Rugwort
+button.playwelcometoeverdell=Jogar Bem-vindo a Everdell
+challenges.base=Base
+challenges.glimmergold=Ouro Brilhante
+friends.game.invite.decline=Recusar
+invitefriend.body=Seu amigo {0} não possui Everdell. Enviar um convite para ele para saber mais sobre o jogo?
+store.product.glimmergold.name=Glimmergold
+store.product.glimmergold.description=Glimmergold apresenta três novas maneiras de jogar que você pode combinar da melhor forma possível!
+playonline.friendplayer.label=Amigo
+critter.name.Rat=Rato
+critter.color.Rat=#b6a988
+date.today=Hoje
+login.error.usernametooshort=O nome de usuário deve ter pelo menos cinco caracteres.
+tutorial.title.tutorial01=Introdução
+tutorial.description.tutorial01=Aprenda o básico de Everdell.
+tutorial.title.tutorial02=Na Floresta
+tutorial.description.tutorial02=Saiba mais sobre os locais da Floresta, os tipos de cartas e muito mais.
+tutorial.title.tutorial03=Eventos
+tutorial.description.tutorial03=Saiba tudo sobre Eventos básicos e especiais.
+tutorial1.intro1.dialog1=Bem-vindo ao maravilhoso mundo de Everdell!<br>Sob o abrigo da imponente Árvore Eterna, uma terra de cavidades cobertas de musgo e riachos sinuosos está à sua espera para ser descoberta.
+tutorial1.intro1.dialog2=Hoje você aprenderá a coletar recursos, construir edifícios e recrutar criaturas para sua cidade.
+tutorial1.intro1.dialog3=Você começa o jogo com 2 trabalhadores. Eles podem ser usados ​​para visitar <sprite name="WorkerLocation"> locais no tabuleiro que permitem coletar recursos e recompensas.
+tutorial1.intro1.dialog4=Na sua vez, você realizará uma das três ações possíveis:\n• Posicionar um trabalhador\n• Jogar uma Criatura ou Construção\n• Preparar-se para uma Temporada
+tutorial1.intro1.dialog5=Envie seu trabalhador para coletar <sprite name="Twigs"> galhos arrastando-os para o local destacado!
+tutorial1.intro1.dialog5.gamepad=Envie seu Trabalhador para colher galhos <sprite name="Twigs"> pressionando <sprite name="A_Xbox"> no local do galho.
+tutorial1.intro1.dialog5.gamepad.switch=Envie seu Trabalhador para colher galhos <sprite name="Twigs"> pressionando <sprite name="A_Switch"> no local do galho.
+tutorial1.intro2.dialog1=Você pode acompanhar os recursos que ganhou aqui.
+tutorial1.intro2.dialog2.pc=Os <sprite name="Twigs"> que você ganhou ajudarão a construir uma Fazenda. Mantenha o mouse sobre a carta da Fazenda para examiná-la.
+tutorial1.intro2.dialog2.mobile=Os <sprite name="Twigs"> que você ganhou ajudarão a construir uma Fazenda. Toque e segure a Fazenda para examiná-la.
+tutorial1.intro2.dialog2.new.mobile=Os <sprite name="Twigs"> que você ganhou ajudarão a construir uma Fazenda. Toque na Fazenda para examiná-la.
+tutorial1.intro2.dialog3=Para jogar uma carta, você precisa gastar os recursos mostrados em seu custo. Os <sprite name="Twigs"> galhos que você coletou na sua última ação ajudarão, mas parece que você ainda precisa coletar uma <sprite name="Resin"> resina.
+tutorial1.intro2.dialog4=Envie um trabalhador para colher <sprite name="Resin"><sprite name="Resin">.
+tutorial1.intro3.dialog1=Agora que você tem os recursos necessários para construir a Fazenda, arraste-a para a sua área urbana para construí-la.
+tutorial1.intro4.dialog1=Quando você joga uma Fazenda, ela adiciona 1 <sprite name="Berries"> baga aos seus recursos.
+tutorial1.intro4.dialog2=A Fazenda também vale <sprite name="1VPSmall">. Em um jogo típico, o jogador com mais <sprite name="VPToken"> (Pontos de Vitória) ao final do jogo é o vencedor.
+tutorial1.intro4.dialog2.b=O jogo termina após os jogadores terem jogado todas as quatro estações. <sprite name="Winter"><sprite name="Spring"><sprite name="Summer"><sprite name="Autumn">
+tutorial1.intro4.dialog3=Agora que nossos trabalhadores estão todos mobilizados e não há mais cartas na mão que queiramos jogar, vamos nos preparar para a próxima estação.
+tutorial1.intro4.dialog4=Preparar-se para uma Estação convoca seus trabalhadores para uso na próxima estação. Você também ganha as recompensas da próxima estação.
+tutorial1.intro4.dialog5=Na <sprite name="Spring"> primavera, você ganha um novo trabalhador e também ativa as cartas de <sprite name=Production> <color=#6E8D43><b>Produção</b></color> na sua cidade, como a Fazenda.
+tutorial1.intro4.dialog6=Prepare-se para a <sprite name="Spring"> primavera agora para chamar seus trabalhadores do tabuleiro, ganhar um trabalhador adicional e ativar sua Fazenda para ganhar 1 <sprite name="Berries">.
+tutorial1.intro5.dialog1=Ahh, as flores desabrochando da primavera. Que estação maravilhosa para fazer novos amigos.
+tutorial1.intro5.dialog2=Com essas <sprite name="Berries"> <sprite name="Berries"> que nossa Fazenda cresceu, temos recursos suficientes para jogar o Sapo-Balseiro em nossa mão.
+tutorial1.intro5.dialog3=Sapo-Balseiro é uma Criatura. As Criaturas são pagas com <sprite name="Berries"> frutas. Seus edifícios (Construções) requerem alguma combinação de <sprite name="Twigs"> galhos, <sprite name="Resin"> resina ou <sprite name="Pebbles"> seixos.
+tutorial1.intro5.dialog4=Sapo-Balseiro também é Comum. Você pode ter qualquer número de cartas Comuns com o mesmo nome em sua cidade.
+tutorial1.intro5.dialog5.pc=Você tem uma carta na mão que o recompensará por coletar Criaturas Comuns. Mantenha o mouse sobre a carta da Escola para examiná-la.
+tutorial1.intro5.dialog5.mobile=Você tem uma carta na mão que o recompensará por coletar Criaturas Comuns. Toque e segure a Escola para examiná-la.
+tutorial1.intro5.dialog5.new.mobile=Você tem uma carta na mão que o recompensará por coletar Criaturas Comuns. Toque na Escola para examiná-la.
+tutorial1.intro5.dialog6=A Escola é uma carta de <sprite name="Prosperity"> <color=#55418B><b>Prosperidade</b></color>. Os efeitos de <sprite name="Prosperity"> <color=#55418B><b>Prosperidade</b></color> ocorrem no final do jogo, geralmente concedendo <sprite name="VPToken"> Pontos de Vitória extras por coletar certos tipos de cartas.
+tutorial1.intro5.dialog7=Use um trabalhador para coletar <sprite name="Resin"><sprite name="Resin"> novamente para ajudar a pagar sua Escola.
+tutorial1.intro6.dialog1=Arraste a Escola para sua cidade para jogá-la usando os recursos que você coletou.
+tutorial1.intro7.dialog1=Todas as Construções têm uma Criatura específica que pode ser jogado gratuitamente após serem construídas na sua cidade. Para a Escola, essa Criatura é o Professor.
+tutorial1.intro7.dialog2=Para sua sorte, o Professor é a última carta da sua mão. Arraste-o para a sua cidade para jogá-lo gratuitamente.
+tutorial1.intro8.dialog1=Sua Escola agora é considerada <sprite name="Occupied"> "ocupada", o que significa que você não poderá jogar nenhum outro Professor gratuitamente.
+tutorial1.intro8.dialog2=Bem, já chega de aprendizado por hoje. Descanse um pouco e nos vemos em breve para a próxima aula!
+tutorial2.intro1.dialog1=Bem-vindo de volta! Tenho o prazer de anunciar que o corajoso Sr. Sheldon concordou em desafiá-lo.
+tutorial2.intro1.dialog2=O primeiro jogador recebe 5 cartas e cada jogador subsequente receberá uma a mais que o anterior.
+tutorial2.intro2.dialog1=Três locais de Floresta também são adicionados ao tabuleiro (quatro em partidas de 3 e 4 jogadores). Esses locais variam de jogo para jogo e normalmente são os mais lucrativos para enviar seus trabalhadores.
+tutorial2.intro2.dialog2=Sheldon fez o primeiro movimento, colocando seu trabalhador no local <br> <sprite name="Resin"> <sprite name="Resin"> <sprite name="Twigs">.
+tutorial2.intro3.dialog1=O espaço <sprite name="Resin"> <sprite name="Resin"> <sprite name="Twigs"> tem um ícone <sprite name="WorkerLocation">. Isso significa que é um local "Exclusivo" que só pode ser ocupado por um trabalhador por vez. Locais com o ícone <sprite name="OpenLocation"> são considerados "Compartilhados" e não têm essa restrição.
+tutorial2.intro3.dialog2=Vamos visitar a <sprite name="Berries"><sprite name="Berries"><sprite name="Berries"> Floresta abaixo dele.
+tutorial2.intro4.dialog1=Que achado! São duas <sprite name="Berries"> a mais do que o local Básico <sprite name="Berries"> oferece.
+tutorial2.intro4.dialog2=Você tem <sprite name="Berries"> suficientes para atrair um Andarilho para sua cidade. O Andarilho é uma carta <sprite name="Traveler"> <color=#817053><b>Viajante</b></color>, o que significa que sua habilidade só acontece uma vez, logo no momento em que é jogada.
+tutorial2.intro4.dialog3=O Andarilho permitirá que você compre 3 <sprite name="Cards"> cards. Melhor ainda, ele não ocupa espaço na sua cidade. Normalmente, você só pode ter 15 cards na sua cidade, mas o Andarilho quebra essa regra!
+tutorial2.intro4.dialog4=Jogue o Andarilho na sua cidade para usar sua habilidade.
+tutorial2.intro5.dialog1=Sua mão agora atingiu o limite de 8 cards. Você não poderá comprar mais cards até jogar ou descartar alguns deles da sua mão.
+tutorial2.intro6.dialog1=Você deve ter notado que alguns recursos são mais fáceis de obter do que outros. <sprite name="Pebbles"> Pedrinhas são normalmente as mais difíceis de coletar, enquanto <sprite name="Twigs"> galhos são muito mais fáceis.
+tutorial2.intro6.dialog2=Alguns locais e habilidades permitirão que você escolha o recurso que quiser <sprite name="AnyResource">. Visite o local do Refúgio para converter cartas da sua mão em recursos de sua escolha.
+tutorial2.intro7.dialog1=Arraste cada carta da sua mão para a área de descarte para descartar todas. Você receberá 1 recurso de sua escolha para cada 2 cartas descartadas.
+tutorial2.intro7.dialog2=Vamos usar 1 <sprite name="Twigs">, 1 <sprite name="Resin"> e 2 <sprite name="Pebbles">. Isso lhe dará uma boa variedade de recursos, com ênfase no mais raro.
+tutorial2.intro8.dialog1=Sheldon se preparou para a <sprite name="Spring"> Primavera, mas você ainda está no <sprite name="Winter"> Inverno. Pode parecer estranho, mas jogadores diferentes podem estar em estações diferentes ao mesmo tempo.
+tutorial2.intro8.dialog2=Só porque você não tem nenhuma carta na mão não significa que não possa continuar jogando cartas para sua cidade. A Campina oferece outra fonte de cartas.
+tutorial2.intro9.dialog1=Todos os jogadores têm acesso às 8 cartas da Campina como se elas estivessem na mão.
+tutorial2.intro9.dialog2=Existem vários novos tipos de cartas (também conhecidos como cores) na Campina. Vamos revisar como cada uma funciona.
+tutorial2.intro9.dialog3=Lojista é uma carta de <sprite name="Governance"> <color=#2C6078><b>Governança</b></color>. Ao contrário das cartas de <sprite name="Traveler"> e <sprite name="Production">, uma carta de <sprite name="Governance"> não faz nada corretamente quando jogada. Em vez disso, ela concede um bônus sempre que uma condição específica é atendida.
+tutorial2.intro9.dialog4=No caso do Lojista, você ganha uma <sprite name="Berries"> baga sempre que joga uma Criatura.
+tutorial2.intro9.dialog5=Agora vamos dar uma olhada em uma carta <sprite name="Destination"> <color=#752E32><b>Destino</b></color>. As cartas <sprite name="Destination"> oferecem novos locais para enviar trabalhadores.
+tutorial2.intro9.dialog6=Enviar um trabalhador para o Mirante permite que você copie qualquer local Básico ou Florestal, mesmo aqueles ocupados pelo trabalhador de outro jogador.
+tutorial2.intro9.dialog7=Arraste o Mirante da Campina para sua cidade para jogá-lo.
+tutorial2.intro10.dialog1=Ótima escolha. A partir daqui, você está por conta própria. Para concluir esta lição, adicione uma carta de cada tipo à sua cidade. <br><sprite name="Production"><sprite name="Traveler"><sprite name="Destination"><sprite name="Governance"><sprite name="Prosperity">.
+tutorial2.intro10.dialog2=É hora de se preparar para a <sprite name="Spring"> Primavera. Lembre-se: ao se preparar para esta estação, você pode convocar seus trabalhadores, ganhar um trabalhador adicional e ativar as cartas de <sprite name="Production"> na sua cidade.
+tutorial2.intro11.dialog1.mobile=Sheldon jogou uma carta de <sprite name="Destination"> <color=#752E32><b>Destino</b></color> Aberto para a cidade dele. Toque no avatar dele para ver a cidade e examine a Pousada.
+tutorial2.intro11.dialog1.pc=Sheldon jogou uma carta <sprite name="Destination"> <color=#752E32><b>Destino</b></color> Aberta para sua cidade. Clique em seu avatar para ver sua cidade e examine sua Estalagem.
+tutorial2.intro11.dialog2=<sprite name="Destination"> <color=#752E32><b>Destino</b></color> Aberta são locais para onde QUALQUER jogador pode enviar um trabalhador. No entanto, quando você envia um trabalhador para o local <sprite name="Destination"> de outro jogador, esse jogador receberá <sprite name="1VPSmall"> por prestar o serviço.
+tutorial2.intro11.dialog3=Vamos enviar nosso trabalhador para a Estalagem agora para usar sua habilidade.
+tutorial2.intro12.dialog1=A Estalagem permite que você jogue uma carta da Campina por 3 recursos <sprite name="AnyResource"> a menos de sua escolha.
+tutorial2.outro1.dialog1=Que cidade vibrante e diversa você criou! Seu objetivo foi alcançado!
+tutorial3.intro1.dialog1=Em seu teste final, você competirá contra três oponentes para tentar reivindicar Eventos!
+tutorial3.intro1.dialog2=Jogos para quatro jogadores adicionam quatro locais aleatórios de Floresta ao tabuleiro. Embora cada um tenha dois espaços <sprite name="WorkerLocation">, cada jogador pode enviar apenas um trabalhador para cada local de Floresta.
+tutorial3.intro1.dialog2.b=Eventos são conquistas que os jogadores podem realizar no jogo para ganhar <sprite name="VPToken"> bônus. Para reivindicar um Evento, você deve ser o primeiro jogador a atender aos requisitos E enviar um trabalhador para lá.
+tutorial3.intro1.dialog3=Para mover rapidamente sua câmera para a área do Evento Árvore Eterna, toque no ícone de árvore abaixo.
+tutorial3.intro1.dialog3.gamepad=Para mover rapidamente sua câmera para a área do Evento Árvore Eterna, toque em <sprite name="LB_Xbox">
+tutorial3.intro1.dialog3.gamepad.switch=Para mover rapidamente sua câmera para a área do Evento Árvore Eterna, toque em <sprite name="L_Switch">
+tutorial3.intro1.dialog3.b=Assim como nos locais, você envia seus trabalhadores para os Eventos. No entanto, cada Evento só pode ser reivindicado uma vez.
+tutorial3.intro1.dialog4=Existem quatro Eventos Básicos disponíveis em todas as partidas. Eles exigem que você colete um certo número de um tipo específico de carta <sprite name="Production">,<sprite name="Traveler">,<sprite name="Destination"> ou <sprite name="Governance"> na sua cidade.
+tutorial3.intro1.dialog5=Esses Eventos incentivam você a se especializar em um tipo específico para receber a recompensa de <sprite name="3VPSmall">.
+tutorial3.intro1.dialog6=No alto dos galhos da Árvore Eterna, você encontrará quatro Eventos especiais, que variam de jogo para jogo. Esses Eventos exigem que os jogadores joguem cartas específicas em suas cidades para reivindicá-los.
+tutorial3.intro1.dialog6.b.pc=Mantenha o mouse sobre um Evento especial para examiná-lo com mais detalhes.
+tutorial3.intro1.dialog6.b.mobile=Toque e segure um Evento especial para examiná-lo com mais detalhes.
+tutorial3.intro1.dialog6.b.new.mobile=Toque em um Evento especial para examiná-lo com mais detalhes.
+tutorial3.intro1.dialog7=Como os Eventos Especiais recompensam você por coletar as cartas listadas, certas estratégias podem se tornar mais poderosas de jogo para jogo.
+tutorial3.intro1.dialog8=Para concluir este tutorial, reivindique um Evento básico e um Evento especial. Você conseguiu. Vamos lá!
+tutorial3.outro1.dialog1=Bom trabalho conquistando esses Eventos! Suas lições estão completas!<br>Se você busca um próximo passo divertido, recomendamos experimentar um Jogo de Desafio. Trata-se de uma série de partidas solo com uma variante ou objetivo especial exclusivo da Everdell Digital.
+tutorial.label.WorkerBay=Trabalhador
+tutorial.label.TwigsLocation=Localização do Galho
+tutorial.label.ResinLocation=Localização da Resina
+tutorial.seasonrewards.1worker=+1
+tutorial.seasonrewards.2worker=+2
+tutorial.seasonrewards.drawmeadow=Compre 2 Cartas da Campina <size=35><sprite name="Cards">
+tutorial.label.forestlocations=Localizações da Floresta
+tutorial.label.berrylocation=Localização das Frutas Vermelhas
+tutorial.label.summer=Verão
+tutorial.label.meadow=Campina
+tutorial.label.cost=Custo
+tutorial.label.basicevent=Evento Básico
+tutorial.label.specialevents=Eventos Especiais
+ftt.autumnjourney.1=Agora que você está no <sprite name="Autumn"> Outono, os locais da Jornada foram desbloqueados para uso. A Jornada permite que os jogadores convertam cartas indesejadas na mão em Pontos de Vitória.
+ftt.summerproduction.1=Ao contrário da <sprite name="Spring"> Primavera e <sprite name="Autumn"> Outono, você não ativa cartas de <sprite name="Production"> <color=#6E8D43><b>Produção</b></color> ao se preparar para <sprite name="Summer"> Verão. Em vez disso, você pode pegar duas cartas da Campina e adicioná-las à sua mão (desde que não esteja no limite de cartas).
+tutorial.enemy.name.sheldon=Sheldon
+tutorial.header.complete=Tutorial Concluído
+tutorial.header.fail=Objetivo Incompleto
+tutorial.label.eventrequirement=Requisito
+tutorial.header.goals=Objetivos
+tutorial2.goal.traveler=<sprite name="Traveler"> <color=#817053><b>Viajante</b></color>
+tutorial2.goal.governance=<sprite name="Governance"> <color=#2C6078><b>Governança</b></color>
+tutorial2.goal.production=<sprite name="Production"> <color=#6E8D43><b>Produção</b></color>
+tutorial2.goal.destination=<sprite name="Destination"> <color=#752E32><b>Destino</b></color>
+tutorial2.goal.prosperity=<sprite name="Prosperity"> <color=#55418B><b>Prosperidade</b></color>
+tutorial3.goal.BasicEvent=Reivindicar 1 Evento Básico
+tutorial3.goal.SpecialEvent=Reivindicar 1 Evento Especial
+tutorial3.intro1.dialog6.b.gamepad.switch=Selecione um Evento especial e pressione <sprite name="Y_Switch"> para examiná-lo mais detalhadamente.
+tutorial2.intro11.dialog1.gamepad.switch=Sheldon jogou uma carta <sprite name="Destination"> <color=#752E32><b>Destino</b></color> Aberto para sua cidade. Selecione seu avatar e pressione <sprite name="A_Switch"> para ver sua cidade. Em seguida, selecione sua Pousada e examine pressionando <sprite name="Y_Switch">.
+tutorial1.intro5.dialog5.gamepad.switch=Você tem uma carta na mão que o recompensará por coletar Criaturas Comuns. Selecione Escola e pressione <sprite name="Y_Switch"> para examiná-la.
+tutorial1.intro2.dialog2.gamepad.switch=Os <sprite name="Twigs"> que você ganhou ajudarão a construir uma Fazenda. Selecione a Fazenda e pressione <sprite name="Y_Switch"> para examiná-la.
+tutorial1.intro3.dialog1.gamepad.switch=Agora que você tem os recursos necessários para construir a Fazenda, selecione-a em sua mão e pressione <sprite name="A_Switch"> para construí-la.
+tutorial1.intro6.dialog1.gamepad.switch=Selecione a Escola em sua mão e pressione <sprite name="A_Switch"> para construí-la usando os recursos que você reuniu.
+tutorial1.intro7.dialog2.gamepad.switch=Para sua sorte, o Professor é a última carta em sua mão. Selecione-a e pressione <sprite name="A_Switch"> para jogá-la.
+tutorial2.intro7.dialog1.gamepad.switch=Selecione cada carta em sua mão e pressione <sprite name="A_Switch"> para descartá-las. Você receberá 1 recurso de sua escolha para cada 2 cartas descartadas.
+tutorial2.intro9.dialog7.gamepad.switch=Selecione o Mirante na Campina e pressione <sprite name="A_Switch"> para jogá-lo em sua cidade.
+tutorial3.intro1.dialog6.b.gamepad=Selecione um Evento especial e pressione <sprite name="X_Xbox"> para examiná-lo mais detalhadamente.
+tutorial2.intro11.dialog1.gamepad=Sheldon jogou uma carta <sprite name="Destination"> <color=#752E32><b>Destino</b></color> Aberta para sua cidade. Selecione seu avatar e pressione <sprite name="A_Xbox"> para ver sua cidade. Em seguida, selecione sua Pousada e examine-a pressionando <sprite name="X_Xbox">.
+tutorial1.intro5.dialog5.gamepad=Você tem uma carta na mão que o recompensará por coletar Criaturas Comuns. Selecione Escola e pressione <sprite name="X_Xbox"> para examiná-la.
+tutorial1.intro2.dialog2.gamepad=Os <sprite name="Twigs"> que você ganhou ajudarão a construir uma Fazenda. Selecione Fazenda e pressione <sprite name="X_Xbox"> para examiná-la.
+tutorial1.intro3.dialog1.gamepad=Agora que você tem os recursos necessários para construir a Fazenda, selecione-a em sua mão e pressione <sprite name="A_Xbox"> para construí-la.
+tutorial1.intro6.dialog1.gamepad=Selecione a Escola em sua mão e pressione <sprite name="A_Xbox"> para construí-la usando os recursos que você reuniu.
+tutorial1.intro7.dialog2.gamepad=Para sua sorte, o Professor é a última carta em sua mão. Selecione-a e pressione <sprite name="A_Xbox"> para jogá-la.
+tutorial2.intro7.dialog1.gamepad=Selecione cada carta em sua mão e pressione <sprite name="A_Xbox"> para descartá-las. Você receberá 1 recurso à sua escolha para cada 2 cartas descartadas.
+tutorial2.intro9.dialog7.gamepad=Selecione o Mirante na Campina e pressione <sprite name="A_Xbox"> para jogá-lo em sua cidade.
+tutorial2.intro9.dialog2.gamepad.switch=Existem vários novos tipos de cartas (também conhecidos como cores) na Campina. Vamos revisar como cada um funciona selecionando uma carta e pressionando <sprite name="Y_Switch"> para examiná-la mais detalhadamente.
+tutorial2.intro9.dialog2.gamepad=Existem vários novos tipos de cartas (também conhecidos como cores) na Campina. Vamos revisar como cada um funciona selecionando uma carta e pressionando <sprite name="X_Xbox"> para examiná-la mais detalhadamente.
+tutorial1.intro1.dialog5.mobile=Envie seu Trabalhador para colher galhos <sprite name="Twigs"> tocando no trabalhador e, em seguida, no local destacado, ou arrastando-o para o local.
+log.actionlog=Registro de Ações
+log.turn.start=Vez de [name]
+log.pass= <color=[color]>[name]</color> passou e está pronto para o fim do jogo.
+log.prepare.season= <color=[color]>[name]</color> se prepara para [season].
+log.worker.location.forest= <color=[color]>[name]</color> coloca um trabalhador em um local Floresta.
+log.worker.location.basic= <color=[color]>[name]</color> coloca um trabalhador em um local Básico.
+log.worker.location.card= <color=[color]>[name]</color> coloca um trabalhador em [location].
+log.worker.location.haven= <color=[color]>[name]</color> coloca um trabalhador em Refúgio.
+log.worker.location.journey= <color=[color]>[name]</color> coloca um trabalhador em Jornada.
+log.worker.event= <color=[color]>[name]</color> coloca um trabalhador para reivindicar [event].
+log.generic.vp.gain= <color=[color]>[name]</color> ganha [X] <sprite name="VPToken">.
+log.generic.resource.gain= <color=[color]>[name]</color> ganha [resource list].
+log.generic.card.discard= <color=[color]>[name]</color> descarta [X] cartas.
+log.generic.card.draw= <color=[color]>[name]</color> compra [X] cartas.
+log.generic.reduce= ​​<color=[color]>[name]</color> reduz o custo de [card] em [X] [resource].
+log.play.hand= <color=[color]>[name]</color> joga [card] da sua mão para a sua cidade.
+log.play.meadow= <color=[color]>[name]</color> joga [card] da Campina para a sua cidade.
+log.replace.meadow= <color=[color]>[name]</color> descarta [card], [card2] e [card3] da Campina.
+log.take.meadow.1= <color=[color]>[name]</color> pega [card] da Campina e coloca em sua mão.
+log.take.meadow.2= <color=[color]>[name]</color> pega [card] e [card2] da Campina e coloca em sua mão.
+log.occupied= <color=[color]>[name]</color> coloca uma ficha ocupada em [card] para pagar por [card2].
+log.pair= <color=[color]>[name]</color> junta Coletor e Colhedor.
+log.pair.old= <color=[color]>[name]</color> junta Marido e Mulher.
+log.ranger= <color=[color]>[name]</color> usa Ranger para mover um trabalhador de [location] para [location2].
+log.shepherd= <color=[color]>[name]</color> usa Shepherd para ganhar 3 <sprite name="Berries"> e [X] <sprite name="VPToken">.
+log.shepherd.payment=As 3 Berries usadas para pagar Shepherd vão para <color=[color]>[name]</color>.
+log.resource.card.effect= <color=[color]>[name]</color> usa [card] para ganhar [X] [resource].
+log.copy.production= <color=[color]>[name]</color> copia o efeito de [card] com [card2].
+log.copy.space= <color=[color]>[name]</color> copia o efeito de um local.
+log.reduce.cost= <color=[color]>[name]</color> reduz o custo de [card] com [card2] pelos seguintes recursos: [resource list].
+log.draw.card.effect= <color=[color]>[name]</color> compra [X] cards usando [card].
+log.play.queen= <color=[color]>[name]</color> joga [card] em sua cidade usando a Rainha.
+log.effect.fool= <color=[color]>[name]</color> joga o Louco na cidade de <color=[color]>[name2]</color>.
+log.pay.for.vp= <color=[color]>[name]</color> usa [card] para descartar [X] [resource] por [X2] <sprite name="VPToken">.
+log.pay.for.vp.with.cards= <color=[color]>[name]</color> usa [card] para descartar [X] cards por [X2] <sprite name="VPToken">.
+log.effect.inn= <color=[color]>[name]</color> usa a Estalagem para jogar [card] com a seguinte redução de custo: [resource list].
+log.effect.post.office= <color=[color]>[name]</color> dá [X] cards para <color=[color]>[name2]</color> com os Correios, descarta [X2] cards e compra [X3] cards.
+log.take.storehouse= <color=[color]>[name]</color> pega os seguintes recursos do Depósito: [resource list].
+log.produce.storehouse= <color=[color]>[name]</color> adiciona [X] [resource] ao Depósito.
+log.effect.ruins= <color=[color]>[name]</color> descarta [card] com Ruínas para comprar [X] cards e ganhar os seguintes recursos: [resource list].
+log.effect.teacher= <color=[color]>[name]</color> compra [X] cards com Professor e então dá um card para <color=[color]>[name2]</color>.
+log.effect.teacher.draw.only= <color=[color]>[name]</color> compra [X] cards com Professor.
+log.effect.cemetery= <color=[color]>[name]</color> escolhe [pile] com Cemitério e joga [card] de graça.
+log.effect.chapel= <color=[color]>[name]</color> coloca um <sprite name="VPToken"> em Capela e então compra [X] cards.
+log.effect.clocktower= <color=[color]>[name]</color> remove um <sprite name="VPToken"> da Torre do Relógio para ativar [location].
+log.effect.dungeon= <color=[color]>[name]</color> coloca [card] abaixo da Masmorra para diminuir o custo de [carta2] nos seguintes recursos: [resource list].
+log.effect.university= <color=[color]>[name]</color> descarta [card] de sua cidade para ganhar 1 <sprite name="VPToken> e os seguintes recursos: [resource list].
+log.effect.postal.pigeon.1= <color=[color]>[name]</color> escolhe jogar [card] com o Pombo Postal e descarta o outro card revelado, [card2].
+log.effect.swap= <color=[color]>[name]</color> substitui [resource list] por [resource list 2].
+log.effect.judge= <color=[color]>[name]</color> substitui [resource] por [resource2] ao pagar o custo de [card].
+log.give.for.vp= <color=[color]>[name]</color> dá [resource list] para <color=[color]>[name2]</color> para ganhar [X] <sprite name="VPToken">.
+log.event.well.run= <color=[color]>[name]</color> traz de volta um trabalhador destacado com Uma Cidade Bem Administrada.
+log.event.pristine.chapel= <color=[color]>[name]</color> compra [X] cartas e ganha [resource list].
+log.event.croak.wart= <color=[color]>[name]</color> paga 2 <sprite name="Berries"> e descarta [card] e [card2] de sua cidade para a Cura da Verruga Croak.
+log.event.place.resources= <color=[color]>[name]</color> coloca [resource list] em [event].
+log.event.capture.acorn.0= <color=[color]>[name]</color> não coloca nenhuma carta em Captura dos Ladrões de Bolotas.
+log.event.capture.acorn.2= <color=[color]>[name]</color> coloca [card] e [card2] de sua cidade em Captura dos Ladrões de Bolotas.
+log.event.capture.acorn.1= <color=[color]>[name]</color> coloca [card] de sua cidade em Captura dos Ladrões de Bolotas.
+log.event.graduation.3= <color=[color]>[name]</color> coloca [card], [card2] e [card3] de sua mão em Graduação dos Acadêmicos.
+log.event.graduation.2= <color=[color]>[name]</color> coloca [card] e [card2] de sua mão em Graduação dos Acadêmicos.
+log.event.graduation.1= <color=[color]>[name]</color> coloca [card] da sua mão em Formatura dos Acadêmicos.
+log.event.graduation.0= <color=[color]>[name]</color> não coloca nenhuma carta em Formatura dos Acadêmicos.
+log.event.brilliant.marketing.0= <color=[color]>[name]</color> não concede nenhum recurso.
+log.event.brilliant.marketing.1= <color=[color]>[name]</color> concede [resource list] para <color=[color]>[name2]</color>.
+log.event.brilliant.marketing.2= <color=[color]>[name]</color> concede [resource list] para <color=[color]>[name2]</color> e [lista de recursos 2] para <color=[color]>[name3]</color>.
+log.event.brilliant.marketing.3= <color=[color]>[name]</color> entrega [resource list] para <color=[color]>[name2]</color>, [resource list 2] para <color=[color]>[name3]</color> e [resource list 3] para <color=[color]>[name4]</color>.
+log.event.tax= <color=[color]>[name]</color> ativa <color=#6E8D43><b>Produção</b></color> com Alívio Fiscal
+log.ancient.scrolls= <color=[color]>[name]</color> revela 5 <sprite name="Cards"> e adiciona [X] <sprite name="Cards"> das cartas reveladas à sua mão e coloca os [X2] <sprite name="Cards"> restantes em Pergaminhos Antigos Descobertos.
+log.generic.card.skip= <color=[color]>[name]</color> recusou-se a usar a habilidade [card].
+log.start.game=O Jogo Começa
+log.effect.peddler= <color=[color]>[name]</color> usa o Mascate para substituir [resource list] por [resource list 2].
+log.play.other= <color=[color]>[name]</color> joga [card] para sua cidade.
+log.resource.card.effect.many= <color=[color]>[name]</color> usa [card] para ganhar [resource list].
+scenario.bakeoff.flavor=Todo bichinho adora a temporada de assados. Viaje pelas cidades de Everdell e saboreie essas delícias!
+scenario.bakeoff.name=Concurso de Confeitaria
+scenario.bakeoff.normal.description=Sempre que você enviar um trabalhador para uma carta <sprite name="Destination"> <color=#752E32><b>Destino</b></color>, ganhe 2 <sprite name="Berries">.
+scenario.bakeoff.heroic.description=Sempre que você enviar um trabalhador para uma carta <sprite name="Destination"> <color=#752E32><b>Destino</b></color>, ganhe 2 <sprite name="Berries">. Os oponentes começam com um trabalhador extra.
+scenario.balanced.flavor=Uma cidade colorida é uma cidade próspera. Faça o seu melhor para fornecer um pouco de tudo o que a vida tem a oferecer!
+scenario.balanced.name=Bem Equilibrado
+scenario.balanced.normal.description=Cada jogador ganha 5 <sprite name="VPToken"> para cada conjunto de 5 cartas de cores diferentes em sua cidade.
+scenario.balanced.heroic.description=Cada jogador ganha 5 <sprite name="VPToken"> para cada conjunto de 5 cartas de cores diferentes em sua cidade. Você perde 10 <sprite name="VPToken"> no final do jogo se não tiver pelo menos 3 cartas de cada cor em sua cidade.
+scenario.bed.flavor=Às vezes é bom ficar em casa e relaxar. Seus trabalhadores querem ficar perto de casa e certamente vão gostar da pousada!
+scenario.bed.name=Pousada
+scenario.bed.normal.description=Você começa o jogo com uma Pousada. Não é possível visitar mais de um local de Floresta por temporada.
+scenario.bed.heroic.description=Os oponentes começam o jogo com uma Pousada. Você não pode visitar mais de um local da Floresta por temporada.
+scenario.carnival.flavor=O carnaval é diversão para toda a família quando passa pela cidade. Agora, como fazer para que eles vão embora?
+scenario.carnival.name=Carnaval
+scenario.carnival.normal.description=Você começa o jogo com 2 Tolos e um Parque de Diversões na sua cidade.
+scenario.carnival.heroic.description=Você começa o jogo com 4 Tolos e um Parque de Diversões na sua cidade.
+scenario.commoner.flavor=O povo de Everdell está procurando uma cidade para chamar de sua, longe de palácios opulentos e teatros caros. Dê a eles o que precisam e eles lhe pagarão dez vezes mais.
+scenario.commoner.name=Revolta dos Plebeus
+scenario.commoner.normal.description=Cartas comuns são gratuitas se você tiver uma carta com o mesmo nome na sua cidade. Os oponentes começam com uma carta única na cidade deles.
+scenario.commoner.heroic.description=Cartas comuns são gratuitas se você tiver uma carta com o mesmo nome na sua cidade. Os oponentes começam com 2 cartas únicas na cidade deles.
+scenario.delivery.flavor=Entrega especial só para você! Estes pacotes de cuidados vão te dar uma vantagem inicial!
+scenario.delivery.name=Pronto para entrega
+scenario.delivery.normal.description=Sua mão inicial é substituída por 3 Pombos-correio. Os Pombos-correio não ocupam espaço na sua cidade.
+scenario.delivery.heroic.description=Sua mão inicial é substituída por 3 Pombos-correio. Você não pode ganhar se tiver menos de 3 Pombos-correio na sua cidade.
+scenario.eventful.flavor=Todo mundo adora um bom Evento. Sua cidade inteira conta com você para tornar seus eventos os mais extravagantes de Everdell!
+scenario.eventful.name=Uma Tarde Agitada
+scenario.eventful.normal.description=Eventos valem 3 <sprite name="VPToken"> adicionais.
+scenario.eventful.heroic.description=Os eventos valem 4 <sprite name="VPToken"> adicionais. No final da partida, você perde 2 <sprite name="VPToken"> para cada evento não reivindicado.
+scenario.guestlist.flavor=A Campina está repleta de figurões de Everdell. Quem você vai recrutar?
+scenario.guestlist.name=Lista de Convidados
+scenario.guestlist.normal.description=A Campina contém todas as cartas listadas em Eventos especiais.
+scenario.guestlist.heroic.description=A Campina contém todas as cartas listadas em Eventos especiais. Os oponentes começam com 1 de cada recurso.
+scenario.intro.overview=Teste sua coragem em uma série de jogos com regras e condições iniciais únicas. Cada Desafio tem uma versão mais difícil para desbloquear ao conquistar o primeiro lugar no modo normal!
+scenario.jobswap.flavor=Esta cidade virou de cabeça para baixo! Quais Criaturas suas construções atrairão hoje?
+scenario.jobswap.name=Troca de Tarefas
+scenario.jobswap.normal.description=A Criatura que pode ocupar cada Construção foi randomizada.
+scenario.jobswap.heroic.description=A Criatura que pode ocupar cada Construção foi randomizada. Os oponentes começam com 2 <sprite name="VPToken"> Construções aleatórias em sua cidade.
+scenario.late.flavor=Em alguns anos, o inverno chega mais cedo. Toda Everdell está aqui para ajudar a garantir que você consiga resistir à estação, mas você terá que agir rápido.
+scenario.late.name=Início Tardio
+scenario.late.normal.description=Você começa no outono com 18 trabalhadores.
+scenario.late.heroic.description=Você começa no outono com 15 trabalhadores.
+scenario.mixup.flavor=Quem está encarregado dessas lojas de suprimentos? Aproveite ao máximo a confusão!
+scenario.mixup.name=A Grande Confusão
+scenario.mixup.normal.description=Quando você se Prepara para a Temporada, seus recursos são randomizados.
+scenario.mixup.heroic.description=Quando você se Prepara para a Temporada, você perde todos os recursos.
+scenario.newfrontiers.flavor=Este ano, a colheita não será fácil! Você precisará recrutar ajuda para abastecer seus estoques.
+scenario.newfrontiers.name=Novas Fronteiras
+scenario.newfrontiers.normal.description=Você não ativa cartas de <sprite name="Production"> ao se preparar para a primavera ou o outono. Em vez disso, elas são ativadas quando você joga uma carta de <sprite name="Traveler">. Os oponentes começam com uma carta de <sprite name="Production"> em sua cidade.
+scenario.newfrontiers.heroic.description=Você não ativa cartas de <sprite name="Production"> ao se preparar para a primavera ou o outono. Em vez disso, elas são ativadas quando você joga uma carta de <sprite name="Prosperity">. Os oponentes começam com 2 cartas de <sprite name="Production"> em sua cidade.
+scenario.solstice.flavor=O inverno começou cedo este ano! A temporada de cultivo está começando cedo, mas você terá que trabalhar rápido para capitalizar.
+scenario.solstice.heroic.description=Só que você começa na <sprite name="Spring"> primavera em vez do <sprite name="Winter"> inverno.
+scenario.solstice.name=Primavera em Ação
+scenario.solstice.normal.description=Cada jogador começa na <sprite name="Spring"> primavera em vez do <sprite name="Winter"> inverno.
+leaf1001.title=Época de Festas
+leaf1002.title=Planejador da Cidade
+leaf1004.title=Patrono
+leaf1005.title=Uma Grande Jornada
+leaf1006.title=Casa Cheia
+leaf1007.title=Mestre dos Calabouços
+leaf1008.title=Abraçador de Árvores
+leaf1009.title=Formando
+leaf1010.title=Desafiante
+leaf1011.title=Desafiante Supremo
+leaf1012.title=Competidor
+leaf1013.title=Competidor Experiente
+leaf1014.title=Clube do Meio Centenário
+leaf1015.title=Clube dos Três Quartos
+leaf1016.title=Caminho da Iluminação
+leaf1017.title=Líder do Rebanho
+leaf1021.title=Exibicionista
+leaf1001.text=Resgate 4 ou mais Eventos em uma única partida.
+leaf1002.text=Termine uma partida com 15 ou mais cartas na sua cidade.
+leaf1004.text=Envie um trabalhador para um Destino aberto de outro jogador 3 ou mais vezes em uma única partida.
+leaf1005.text=Jornada três vezes em uma única partida.
+leaf1006.text=Tenha 5 ou mais Construções ocupadas em uma única partida.
+leaf1007.text=Termine uma partida com 2 Criaturas na sua Masmorra.
+leaf1008.text=Marque 5 pontos de bônus em uma partida com a Árvore Eterna.
+leaf1009.text=Conclua o Tutorial.
+leaf1010.text=Conclua todos os Desafios normais.
+leaf1011.text=Conclua todos os Desafios difíceis.
+leaf1011.text=Conclua todos os Desafios difíceis.
+leaf1007.text=Conclua uma partida com 2 Criaturas na sua Masmorra.
+leaf1008.text=Marque 5 pontos de bônus em uma partida com a Árvore Eterna.
+leaf1009.text=Conclua o Tutorial.
+leaf1010.text=Conclua todos os Desafios normais.
+leaf1011.text=Conclua todos os Desafios difíceis.
+leaf1009.text=Conclua todos os Desafios difíceis.
+leaf101 ... leaf1012.text=Vença uma partida online.
+leaf1013.text=Vença 25 partidas online.
+leaf1014.text=Marque 50 pontos de vitória em uma única partida.
+leaf1015.text=Marque 75 pontos de vitória em uma única partida.
+leaf1016.text=Termine uma partida com dois trabalhadores no seu Monastério.
+leaf1017.text=Marque 3 pontos de vitória em uma única partida com Shephard.
+leaf1021.text=Jogue 5 ou mais turnos seguidos.
+cards.base.architect.name=Arquiteto
+cards.base.bard.name=Bardo
+cards.base.bargetoad.name=Sapo Balseiro
+cards.base.castle.name=Castelo
+cards.base.cemetery.name=Cemitério
+cards.base.chapel.name=Capela
+cards.base.chipsweep.name=Esquilo Varredor
+cards.base.clocktower.name=Torre do Relógio
+cards.base.courthouse.name=Tribunal
+cards.base.crane.name=Guindaste
+cards.base.doctor.name=Médico
+cards.base.dungeon.name=Masmorra
+cards.base.evertree.name=Árvore Perene De Ever
+cards.base.fairgrounds.name=Parque de Diversões
+cards.base.farm.name=Fazenda
+cards.base.fool.name=Tolo
+cards.base.generalstore.name=Armazém
+cards.base.historian.name=Historiador
+cards.base.husband.name=Colheitadeira
+cards.base.husband.old.name=Marido
+cards.base.inn.name=Estalagem
+cards.base.innkeeper.name=Estalajadeiro
+cards.base.judge.name=Juiz
+cards.base.king.name=Rei
+cards.base.lookout.name=Vigia
+cards.base.mine.name=Mina
+cards.base.minermole.name=Mineiro Toupeira
+cards.base.monastery.name=Mosteiro
+cards.base.monk.name=Monge
+cards.base.palace.name=Palácio
+cards.base.peddler.name=Mascate
+cards.base.postalpigeon.name=Pombo-correio
+cards.base.postoffice.name=Correios
+cards.base.queen.name=Rainha
+cards.base.ranger.name=Patrulheiro
+cards.base.resinrefinery.name=Refinaria de Resina
+cards.base.ruins.name=Ruínas
+cards.base.school.name=Escola
+cards.base.shepherd.name=Pastor
+cards.base.shopkeeper.name=Lojista
+cards.base.storehouse.name=Depósito
+cards.base.teacher.name=Professor
+cards.base.theater.name=Teatro
+cards.base.twigbarge.name=Balça de Gravetos
+cards.base.undertaker.name=Coveiro
+cards.base.university.name=Universidade
+cards.base.wanderer.name=Andarilho
+cards.base.wife.name=Coletor
+cards.base.wife.old.name=Esposa
+cards.base.woodcarver.name=Escultor de Madeira
+cards.base.architect.cardtext=<size=125%><sprite name="1VP"><br><size=100%>para cada uma das suas <sprite name="Resin"> e <sprite name="Pebbles"> não utilizados, até um máximo de 6.
+cards.base.architect.flavortext="Se construirmos, eles virão correndo."
+cards.base.bard.cardtext=Você pode descartar até 5 <sprite name="Cards"> para ganhar 1 <sprite name="VPToken"> cada.
+cards.base.bard.flavortext="Ouça minha história sobre seus feitos heroicos, por mais raros que sejam."
+cards.base.bargetoad.cardtext=Ganhe 2 <sprite name="Twigs"> para cada Fazenda na sua cidade.
+cards.base.bargetoad.flavortext="Vou trabalhar até morrer."
+cards.base.castle.cardtext=<size=125%><sprite name="1VP"><br><size=100%>para cada <b>Construção Comum</b> na sua cidade.
+cards.base.cemetery.locationtext=Revele 4 <sprite name="Cards"> do baralho ou da pilha de descarte e jogue 1 de graça. Descarte as outras.
+cards.base.cemetery.remindertext=O trabalhador fica aqui permanentemente.
+cards.base.chapel.locationtext=Coloque 1 <sprite name="VPToken"> nesta Capela e, em seguida, compre 2 <sprite name="Cards"> para cada <sprite name="VPToken"> nesta Capela.
+cards.base.chipsweep.cardtext=Ative 1 <sprite name="Production"> na sua cidade.
+cards.base.chipsweep.flavortext="Mantenha seu nariz limpo e sua chaminé limpa!"
+cards.base.clocktower.cardtext=Ao jogar, coloque 3 <sprite name="VPToken"> aqui. No início de Preparando-se para a Temporada, você pode pagar 1 <sprite name="VPToken"> daqui para ativar 1 dos locais Básicos ou Florestais onde você tenha um trabalhador alocado.
+cards.base.courthouse.cardtext=Ganhe 1 <sprite name="Twigs"> ou 1 <sprite name="Resin"> ou 1 <sprite name="Pebbles"> após jogar uma <b>Construção</b>.
+cards.base.crane.cardtext=Ao jogar uma <b>Construção</b>, você pode descartar este Guindaste da sua cidade para jogar aquela <b>Construção</b> por 3 <sprite name="AnyResource"> a menos.
+cards.base.crane.remindertext=Não pode ser usado com nenhuma outra habilidade de jogo de cartas.
+cards.base.doctor.cardtext=Você pode pagar até 3 <sprite name="Berries"> para ganhar 1 <sprite name="VPToken"> cada.
+cards.base.doctor.flavortext="Fique parado, isso vai doer mais em você do que em mim."
+cards.base.dungeon.cardtext=Ao jogar uma <b>Construção</b> ou <b>Criatura</b>, você pode colocar uma <b>Criatura</b> da sua cidade virada para baixo abaixo desta Masmorra para reduzir o custo em 3 <sprite name="AnyResource">. <br> <sprite name="DungeonSlot1"> <sprite name="DungeonSlot2"><font="TMP_despera">Patrulheiro
+cards.base.dungeon.remindertext=Não pode ser usado com nenhuma outra habilidade de jogo de cartas.
+cards.base.evertree.cardtext=<size=125%><sprite name="1VP"><br><size=100%>para cada <sprite name="Prosperity"> na sua cidade.
+cards.base.fairgrounds.cardtext=Compre 2 <sprite name="Cards">.
+cards.base.farm.cardtext=Ganhe 1 <sprite name="Berries">.
+cards.base.fool.cardtext=Jogue este Louco em um espaço vazio na cidade de um oponente.
+cards.base.fool.cardtext.rugwort=Descarte o Louco e, em seguida, remova uma carta à sua escolha da Cidade de Rugworts.
+cards.base.fool.flavortext="Em verdade! Nunca ouviste falar de mim?"
+cards.base.generalstore.cardtext=Ganhe 1 <sprite name="Berries">. Se você tiver uma Fazenda em sua cidade, ganhe 1 <sprite name="Berries"> adicional.
+cards.base.historian.cardtext=Compre 1 <sprite name="Cards"> após jogar uma <b>Criatura</b> ou uma <b>Construção</b>.
+cards.base.historian.flavortext="Eu vou te contar como <b>realmente</b> aconteceu."
+cards.base.husband.cardtext=Ganhe 1 <sprite name="AnyResource"> se estiver pareado com um Coletor e tiver pelo menos 1 Fazenda em sua cidade.
+cards.base.husband.flavortext="Nada melhor do que cogumelos em Greensprout!"
+cards.base.husband.remindertext=Pode compartilhar espaço com um Coletor.
+cards.base.husband.old.cardtext=Ganhe 1 <sprite name="AnyResource"> se pareado com uma Esposa e você tiver pelo menos 1 Fazenda na sua cidade.
+cards.base.husband.old.flavortext="Deixando a patroa orgulhosa!"
+cards.base.husband.old.remindertext=Pode compartilhar um espaço com uma Esposa.
+cards.base.inn.locationtext=Jogue um <b>Criatura</b> ou uma <b>Construção</b> da Campina por 3 <sprite name="AnyResource"> a menos.
+cards.base.innkeeper.cardtext=Ao jogar um <b>Criatura</b>, você pode descartar este Estalajadeiro da sua cidade para reduzir o custo em 3 <sprite name="Berries">.
+cards.base.innkeeper.flavortext="Todos já comeram, agora vão dormir."
+cards.base.innkeeper.remindertext=Não pode ser usado com nenhuma outra habilidade de jogo de cartas.
+cards.base.judge.cardtext=Ao jogar um <b>Criatura</b> ou uma <b>Construção</b>, você pode substituir 1 <sprite name="AnyResource"> por 1 <sprite name="AnyResource">.
+cards.base.judge.flavortext="Após muita deliberação, aceitarei essa substituição."
+cards.base.judge.remindertext=Não pode ser usado com nenhuma outra habilidade de jogo de cartas.
+cards.base.king.cardtext=<sprite name="1VP"> para cada Evento básico que você conquistou.<br><sprite name="2VP"> para cada Evento especial que você conquistou.
+cards.base.king.flavortext="Paz para cada bigode, escama e cauda."
+cards.base.lookout.locationtext=Copie qualquer local Básico ou Floresta.
+cards.base.mine.cardtext=Ganhe 1 <sprite name="Pebbles">.
+cards.base.minermole.cardtext=Copie 1 <sprite name="Production"> na cidade de um oponente.
+cards.base.minermole.flavortext="Túneis podem ir para qualquer lugar."
+cards.base.monastery.locationtext=Dê 2 <sprite name="AnyResource"> a um oponente e ganhe 4 <sprite name="VPToken">.
+cards.base.monastery.remindertext=O trabalhador fica aqui permanentemente.
+cards.base.monk.cardtext=Você pode dar até 2 <sprite name="Berries"> a um oponente para ganhar 2 <sprite name="VPToken"> cada.<br><br>Desbloqueia um segundo Monastério <sprite name="WorkerLocation">.
+cards.base.monk.flavortext=". . ."
+cards.base.palace.cardtext=<size=125%><sprite name="1VP"><br><size=100%>para cada <b>Construção Única</b> na sua cidade.
+cards.base.peddler.cardtext=Você pode pagar até 2 <sprite name="AnyResource"> para ganhar a mesma quantidade de <sprite name="AnyResource">.
+cards.base.peddler.flavortext="Réplicas genuínas!"
+cards.base.postalpigeon.cardtext=Revele 2 <sprite name="Cards">. Você pode jogar 1 que vale até 3 <sprite name="VPToken"> de graça. Descarte o outro.
+cards.base.postalpigeon.flavortext="Sol, neve ou tempestade — a correspondência chega!"
+cards.base.postoffice.locationtext=Dê 2 <sprite name="Cards"> a um oponente, descarte qualquer número de <sprite name="Cards"> e compre até o limite da sua mão.
+cards.base.queen.flavortext="Você é esperto — vai dar um jeito."
+cards.base.queen.locationtext=Jogue uma <sprite name="Cards"> que vale até 3 <sprite name="VPToken"> de graça.
+cards.base.ranger.cardtext=Mova 1 de seus trabalhadores destacados para um novo local.<br><br>Desbloqueia uma segunda Masmorra <sprite name="DungeonSlot1">.
+cards.base.ranger.flavortext="Eu conheço todas as trilhas secretas — siga-me."
+cards.base.resinrefinery.cardtext=Ganhe 1 <sprite name="Resin">.
+cards.base.ruins.cardtext=Descarte uma <b>Construção</b> da sua cidade. Ganhe recursos iguais ao custo dessa <b>Construção</b> e compre 2 <sprite name="Cards">.
+cards.base.school.cardtext=<size=125%><sprite name="1VP"><br><size=100%>para cada <b>Criatura Comum</b> em sua cidade.
+cards.base.shepherd.cardtext=Ganhe 3 <sprite name="Berries"> e, em seguida, ganhe 1 <sprite name="VPToken"> para cada <sprite name="VPToken"> em sua Capela.
+cards.base.shepherd.flavortext="Dê e lhe será dado."
+cards.base.shepherd.remindertext=PARA UM OPONENTE
+cards.base.shopkeeper.cardtext=Ganhe 1 <sprite name="Berries"> após jogar uma <b>Criatura</b>.
+cards.base.shopkeeper.flavortext="Volte sempre e traga seus amigos... se tiver algum."
+cards.base.storehouse.cardtext=Coloque 3 <sprite name="Twigs">, 2 <sprite name="Resin">, 1 <sprite name="Pebbles"> ou 2 <sprite name="Berries"> neste Armazém do estoque.
+cards.base.storehouse.locationtext=Pegue todos os recursos desta carta.
+cards.base.teacher.cardtext=Compre 2 <sprite name="Cards">, fique com 1 e dê a outra a um oponente.
+cards.base.teacher.flavortext="Ganhar sabedoria é a coisa mais sábia que você pode fazer."
+cards.base.theater.cardtext=<size=125%><sprite name="1VP"><br><size=100%>para cada <b>Criatura Única</b> na sua cidade.
+cards.base.twigbarge.cardtext=Ganhe 2 <sprite name="Twigs">.
+cards.base.undertaker.cardtext=Descarte 3 <sprite name="Cards"> da Campina, reabasteça e compre 1 <sprite name="Cards"> da Campina.<br><br>Desbloqueia um segundo Cemitério <sprite name="WorkerLocation">.
+cards.base.undertaker.flavortext="Quinze centímetros de terra escura."
+cards.base.university.locationtext=Descarte um <b>Criatura</b> ou <b>Construção</b> da sua cidade. Ganhe recursos iguais ao custo daquele card, depois ganhe 1 <sprite name="AnyResource"> e ganhe 1 <sprite name="VPToken">.
+cards.base.wanderer.cardtext=Compre 3 <sprite name="Cards">.
+cards.base.wanderer.flavortext="Fronteiras são apenas imaginárias."
+cards.base.wanderer.remindertext=Não ocupa espaço na sua cidade.
+cards.base.wife.cardtext=<size=125%><sprite name="3VP"><br><size=100%>se pareado com um Colheitadeira.
+cards.base.wife.flavortext="Último para esta cesta. Bem, talvez este sirva..."
+cards.base.wife.remindertext=Pode compartilhar espaço com um Colheitadeira.
+cards.base.wife.old.cardtext=<size=125%><sprite name="3VP"><br><size=100%>se pareado com um Marido.
+cards.base.wife.old.flavortext="Talvez tenhamos três meninas desta vez."
+cards.base.wife.old.remindertext=Pode compartilhar espaço com um Husband.
+cards.base.woodcarver.cardtext=Você pode pagar até 3 <sprite name="Twigs"> para ganhar 1 <sprite name="VPToken"> cada.
+cards.base.woodcarver.flavortext="Afaste-se e observe um artista em ação."
+forestlocations.base.6f5b024a-f714-4a0a-97fc-9eb76d01f13b.text=3 cartas e 1 pedrinha
+forestlocations.base.606bfd74-0173-42cd-9490-ca78a3cc83df.text=3 frutas vermelhas
+forestlocations.base.1d35cd3a-17b5-4cb9-a625-e5b0db52d3eb.text=2 frutas vermelhas e 1 carta
+forestlocations.base.299b2681-d45a-434b-9aad-bd9a9137085b.text=2 resinas e 1 Galho
+forestlocations.base.3cb6634f-80f5-4e2a-b3f4-1654c6636565.text=1 galho, 1 resina e 1 fruta
+forestlocations.base.324564d6-0ce7-40be-9da6-fc8bf190880c.text=2 cartas quaisquer
+forestlocations.base.dc715d73-6a71-4039-b79d-bbab7a6609c1.text=2 cartas e 1 qualquer
+forestlocations.base.bb1550d4-ba13-41b9-9b50-cbd3895ec050.text=Descarte até 3 cartas e ganhe 1 qualquer para cada carta.
+forestlocations.base.ba105d65-f9a0-46e2-aa73-6f5684ccead5.text=Compre 2 cartas da Campina e jogue 1 por -1 qualquer uma.
+forestlocations.base.101616f0-af36-4681-9a71-b812a4728131.text=Copie qualquer local Básico e compre 1 carta.
+forestlocations.base.b2bd71fe-9b71-4d4c-b5ba-179f04ef4f74.text=Descarte qualquer uma e compre 2 para cada carta descartada.
+specialevents.base.abrilliantmarketingplan.name=Um Plano de Marketing Brilhante
+specialevents.base.ancientscrollsdiscovered.name=Pergaminhos Antigos Descobertos
+specialevents.base.aneveningoffireworks.name=Uma Noite de Fogos de Artifício
+specialevents.base.awellruncity.name=Uma Cidade Bem Administrada
+specialevents.base.captureoftheacornthieves.name=Captura dos Ladrões de Bolotas
+specialevents.base.croakwartcure.name=Cura da Verruga Croak
+specialevents.base.flyingdoctorservice.name=Serviço Médico Voador
+specialevents.base.graduationofthescholars.name=Formatura dos Acadêmicos
+specialevents.base.ministeringstomiscreants.name=Ministérios aos Malfeitores
+specialevents.base.pathofthepilgrims.name=Caminho do Peregrinos
+specialevents.base.performerinresidence.name=Artista Residente
+specialevents.base.pristinechapelceiling.name=Teto Imaculado da Capela
+specialevents.base.rememberingthefallen.name=Relembrando os Caídos
+specialevents.base.taxrelief.name=Alívio Fiscal
+specialevents.base.theeverdellgames.name=Jogos Everdell
+specialevents.base.undernewmanagement.name=Sob Nova Administração
+specialevents.base.abrilliantmarketingplan.rulestext=Ao ser alcançado, você pode dar aos oponentes até um total de 3 <sprite name="AnyResource">.
+specialevents.base.abrilliantmarketingplan.vptext=para cada doação.
+specialevents.base.ancientscrollsdiscovered.rulestext=Ao ser alcançado, revele 5 <sprite name="Cards">. Você pode comprar ou colocar qualquer uma abaixo deste Evento.
+specialevents.base.ancientscrollsdiscovered.vptext=para cada <sprite name="Cards"> abaixo deste Evento.
+specialevents.base.aneveningoffireworks.rulestext=Ao ser alcançado, você pode colocar até 3 <sprite name="Twigs"> aqui.
+specialevents.base.aneveningoffireworks.vptext=para cada <sprite name="Twigs"> neste Evento.
+specialevents.base.awellruncity.rulestext=Ao atingir a meta, traga de volta um dos seus trabalhadores destacados.
+specialevents.base.captureoftheacornthieves.rulestext=Ao atingir a meta, coloque até 2 Criaturas da sua cidade abaixo deste Evento.
+specialevents.base.captureoftheacornthieves.vptext=para cada Criatura abaixo deste Evento.
+specialevents.base.croakwartcure.rulestext=Ao atingir a meta, pague 2 <sprite name="Berries"> e descarte 2 <sprite name="Cards"> da sua cidade.
+specialevents.base.flyingdoctorservice.vptext=para cada par Colhedor/Coletor em cada cidade.
+specialevents.base.flyingdoctorservice.vptext.old=para cada par Marido/Mulher em cada cidade.
+specialevents.base.graduationofthescholars.rulestext=Ao atingir esse objetivo, você pode colocar até 3 Criaturas da sua mão abaixo deste Evento.
+specialevents.base.graduationofthescholars.vptext=para cada Criatura abaixo deste Evento.
+specialevents.base.ministeringstomiscreants.vptext=para cada prisioneiro em sua Masmorra.
+specialevents.base.pathofthepilgrims.vptext=para cada trabalhador em seu Monastério.
+specialevents.base.performerinresidence.rulestext=Ao atingir esse objetivo, você pode colocar até 3 <sprite name="Berries"> aqui.
+specialevents.base.performerinresidence.vptext=para cada <sprite name="Berries"> neste Evento.
+specialevents.base.pristinechapelceiling.rulestext=Ao ser alcançado, compre 1 <sprite name="Cards"> e receba 1 <sprite name="AnyResource"> para cada <sprite name="VPToken"> em sua Capela.
+specialevents.base.pristinechapelceiling.vptext=para cada <sprite name="VPToken"> em sua Capela.
+specialevents.base.rememberingthefallen.vptext=para cada trabalhador enterrado em seu Cemitério.
+specialevents.base.taxrelief.rulestext=Ative todos os <sprite name="Production"> em sua cidade.
+specialevents.base.theeverdellgames.rulestext=2 de cada
+specialevents.base.undernewmanagement.rulestext=Ao ser alcançado, você pode colocar até 3 <sprite name="AnyResource"> aqui.
+specialevents.base.undernewmanagement.vptext=Cada
+card.citylimits.construction.common=Construção Comum
+card.citylimits.construction.unique=Construção Única
+card.citylimits.critter.common=Criatura Comum
+card.citylimits.critter.unique=Criatura Única
+events.base.cartographersexpedition.name=Expedição dos Cartógrafos
+events.base.grandtour.name=Grande Turnê
+events.base.harvestfestival.name=Festival da Colheita
+events.base.citymonument.name=Monumento da Cidade
+card.base.construction.open=Abrir
+cards.base.relation.any=Qualquer
+cards.ceextraextra.juggler.name=Malabarista
+cards.ceextraextra.scurrblechampion.name=Scurrble Campeão
+cards.ceextraextra.towncrier.name=Pregoeiro
+cards.ceextraextra.carnival.name=Carnaval
+cards.ceextraextra.gazette.name=Boletim
+cards.ceextraextra.scurrblestadium.name=Estádio Scurrble
+cards.ceextraextra.juggler.cardtext=Pague 3 <sprite name="Twigs"> para ganhar 4 <sprite name="VPToken"> ou pague 1 <sprite name="Twigs"> para revelar 1 <sprite name="Cards"> do baralho quantas vezes quiser. Se o valor base total das cartas reveladas for 6 ou mais, ganhe 6 <sprite name="VPToken">. Descarte todas as cartas reveladas.
+cards.ceextraextra.juggler.flavortext="...e agora com galhos flamejantes!"
+cards.ceextraextra.scurrblechampion.remindertext=<size=53%>Pode compartilhar um espaço com vários Campeões Scurrble.</size>
+cards.ceextraextra.scurrblechampion.cardtext=<sprite name="2VP"><br>para cada outro Campeão Scurrble da sua cidade.
+cards.ceextraextra.scurrblechampion.flavortext="Rápido é meu nome do meio — na verdade, é Mancha de Sujeira — mas eu sou rápido!"
+cards.ceextraextra.towncrier.cardtext=Você pode dar 2 <sprite name="Cards"> a um oponente. Se fizer isso, ganhe 3 <sprite name="VPToken">.
+cards.ceextraextra.towncrier.flavortext="Ouçam, ouçam!"
+cards.ceextraextra.carnival.cardtext=Compre 1 <sprite name="Cards"> para cada <sprite name="Production"> na sua cidade ou ganhe 1 <sprite name="AnyResource"> para cada 2 <sprite name="Production"> na sua cidade.
+cards.ceextraextra.gazette.cardtext=Coloque 1 <sprite name="VPToken"> aqui sempre que realizar um Evento.<br><br>Se houver pelo menos 3 <sprite name="VPToken"> aqui ao final do jogo, ganhe mais 3 <sprite name="VPToken">.
+cards.ceextraextra.scurrblestadium.locationtext=Diga uma cor de carta que não seja verde e compre 4 <sprite name="Cards">. Se alguma das <sprite name="Cards"> compradas corresponder à cor indicada, ganhe 3 <sprite name="VPToken">.
+cards.cerugworts.rugworttheruler.name=Rugwort, o Governante
+cards.cerugworts.rugworttherowdy.name=Rugwort, o Arruaceiro
+cards.cerugworts.rugworttherobber.name=Rugwort, o Ladrão
+cards.cerugworts.rugworttheruler.cardtext=<sprite name="1VP"><br>para cada Evento alcançado por um oponente.
+cards.cerugworts.rugworttheruler.flavortext="Que bom que pude ajudar!"
+cards.cerugworts.rugworttherowdy.remindertext=Pegue um <sprite name="Production"> da cidade de um oponente e jogue-o na sua cidade gratuitamente. Depois, jogue Rugwort, o Arruaceiro na cidade desse oponente.
+cards.cerugworts.rugworttherowdy.cardtext=Descarte 2 <sprite name="Cards"> (deve ativar).
+cards.cerugworts.rugworttherowdy.flavortext="Vamos dar uma festa em minha homenagem!"
+cards.cerugworts.rugworttherobber.cardtext=Troque de mãos com um oponente.
+cards.cerugworts.rugworttherobber.flavortext="Tudo o que você conseguir colocar as mãos é seu por direito."
+cards.celegendary.fynnnobletail.name=Fynn Nobletail
+cards.celegendary.cirruswindfall.name=Cirrus Windfall
+cards.celegendary.poe.name=Poe
+cards.celegendary.foresight.name=Previsão
+cards.celegendary.amillaglistendew.name=Amilla Glistendew
+cards.celegendary.thegreenacorn.name=A Bolota Verde
+cards.celegendary.silverscalespring.name=Fonte de Escamas Prateadas
+cards.celegendary.oleandersoperahouse.name=Ópera de Oleander
+cards.celegendary.mcgregorsmarket.name=Mercado de McGregor
+cards.celegendary.bridgeofthesky.name=Ponte do Céu
+cards.celegendary.fynnnobletail.cardtext=<sprite name="2VP"> para cada Evento básico que você conquistou.<br><sprite name="3VP"> para cada Evento especial que você conquistou.
+cards.celegendary.cirruswindfall.cardtext=Você pode jogar 1 <sprite name="Cards"> com valor de até <sprite name="3VPSmall"> de graça.
+cards.celegendary.poe.cardtext=Descarte qualquer número de <sprite name="Cards"> e compre até o limite da sua mão.
+cards.celegendary.foresight.cardtext=Compre 2 <sprite name="Cards"> após jogar uma Criatura.<br>Ganhe 1 <sprite name="AnyResource"> após jogar uma Construção.
+cards.celegendary.amillaglistendew.locationtext=Conquiste um Evento, mesmo que não atenda aos requisitos listados.
+cards.celegendary.thegreenacorn.locationtext=Jogue uma Criatura ou Construção por 4 a menos <sprite name="AnyResource">.
+cards.celegendary.silverscalespring.cardtext=Jogue esta carta sob uma Construção na sua cidade.<br><br>Ganhe o custo dessa Construção em recursos e compre 2 <sprite name="Cards">.
+cards.celegendary.oleandersoperahouse.cardtext=<sprite name="2VP"><br>para cada Criatura Única na sua cidade.
+cards.celegendary.mcgregorsmarket.cardtext=Ganhe 2 <sprite name="AnyResource">.
+cards.celegendary.bridgeofthesky.cardtext=Você pode jogar 1 Construção por -3 <sprite name="AnyResource"> e, em seguida, colocá-la sobre esta carta. <br><br><sprite name="VPStar"> é igual ao valor <sprite name="VPToken"> da Construção sobre esta carta.
+cards.celegendary.bridgeofthesky.remindertext=Não pode ser usado com nenhuma outra habilidade de jogo de cartas.
+cards.celegendary.fynnnobletail.flavortext="Pode chegar o dia em que a coragem dos ratos falha, mas não é hoje."
+cards.celegendary.cirruswindfall.flavortext="Planei os sete céus, vi de tudo, vi, vi."
+cards.celegendary.poe.flavortext="Nunca mais esquecerás as palavras dos sábios."
+cards.celegendary.foresight.flavortext="Conhecer o passado é conhecer o futuro."
+cards.celegendary.amillaglistendew.flavortext="Faremos com que pareça convincente."
+card.citylimits.construction.legendary=Construção Lendária
+card.citylimits.critter.legendary=Criatura Lendária
+cards.ce.relation.anyproduction=Qualquer <sprite name="Production">
+cards.ce.relation.anyprosperity=Qualquer <sprite name="Prosperity">
+ftt.ce.legendary.1=Ao jogar com a Expansão Lendas, cada jogador começa o jogo com uma poderosa Criatura Lendária e uma Construção, além de sua mão inicial.
+ftt.ce.legendary.2=Cartas lendárias não são consideradas parte da sua mão, adicionam um espaço ao limite da sua cidade e não podem ser descartadas de lugar nenhum por nenhum motivo.
+ftt.ce.legendary.3=Você pode descartar a carta listada na faixa vermelha da sua cidade para jogar uma de graça. Se uma carta for descartada para jogá-la, mova quaisquer fichas de ocupação e trabalhadores da carta descartada para a carta Lendária. Você não pode mais jogar cartas com o mesmo nome da carta na faixa vermelha.
+scenario.extraextra.name=Extra! Extra! Extra!
+scenario.extraextra.normal.description=O baralho contém o dobro de cartas Extra! Extra! O jogador com mais cartas Extra! Extra! ganha 5 <sprite name="VPToken"> ao final da partida.
+scenario.extraextra.heroic.description=O baralho contém o dobro de cartas Extra! Extra! Se você não tiver a maioria das cartas Extra! Extra! ao final da partida, você perde 10 <sprite name="VPToken">.
+scenario.extraextra.flavor=Leia tudo sobre isso no Evertree Daily News!
+scenario.extraextra.progress=Cartas Extras! Extras! de {0}: {1}
+scenario.legendary.name=Provas Lendárias
+scenario.legendary.normal.description=Sempre que um jogador joga uma carta Lendária, ele compra uma nova para substituí-la.
+scenario.legendary.heroic.description=Sempre que um jogador joga uma carta Lendária, ele compra uma nova para substituí-la. Os oponentes começam com uma carta Lendária aleatória em jogo.
+scenario.legendary.flavor=Lendas incontáveis ​​aguardam!
+scenario.revenge.name=Vingança de Rugwort
+scenario.revenge.normal.description=Sempre que um oponente se Prepara para uma Temporada, ele joga uma carta de Rugwort (tendo você como alvo, se disponível).
+scenario.revenge.heroic.description=Sempre que um oponente se Prepara para uma Temporada, ele joga uma carta de Rugwort (tendo você como alvo, se disponível). Cartas de Rugwort não ocupam espaço nas cidades dos oponentes.
+scenario.revenge.flavor=Que sujeito desagradável ele é. Talvez você precise repensar sua estratégia para esta!
+leaf.card.ce.amilla=Escolha um evento para realizar.
+leaf.card.ce.carnival.draw=Compre 1 <sprite name="Cards"> para cada <sprite name="Production"> na sua cidade.
+leaf.card.ce.carnival.resource=Ganhe 1 <sprite name="AnyResource> para cada 2 <sprite name="Production"> na sua cidade.
+leaf.card.ce.juggler.1twig=Pague 1 <sprite name="Twigs"> para revelar 1 <sprite name="Cards"> do baralho quantas vezes quiser. Se o valor base total das cartas reveladas for 6 ou mais, ganhe 6 <sprite name="VPToken">. Descarte todas as cartas reveladas.
+leaf.card.ce.juggler.3twig=Pague 3 <sprite name="Twigs"> para ganhar 4 <sprite name="VPToken">.
+leaf.card.ce.rugworttherowdy.steal=Escolha a carta <color=#6E8D43><b>Produção</b></color> para Roubar.
+leaf.card.ce.juggler.chooseability=Malabarista: Escolha uma habilidade de carta para ativar.
+leaf.card.ce.carnival.chooseability=Carnaval: Escolha uma habilidade de carta para ativar.
+leaf.ce.choose.color=Escolha uma cor diferente de verde.
+leaf.card.ce.rugworttherowdy.discard=Rugwort, o Arruaceiro: Escolha as cartas para descartar.
+leaf.card.ce.cirruswindfall.selectcard=Escolha a carta para jogar com Cirrus Windfall.
+leaf.card.ce.rugworttherobber.choose=Escolha o oponente para trocar de mãos.
+leaf.card.ce.silverscalespring=Escolha a carta para jogar Silver Scale Spring por baixo.
+leaf.card.ce.poe=Poe: Escolha as cartas para descartar.
+leaf.card.ce.greenacorn.card=Selecione uma carta para jogá-la por 4 recursos <sprite name="AnyResource"> a menos.
+tooltip.extraextra=<size=125%><b>Extra! Extra!</b></size>\nAdiciona 3 novas Criaturas e as 3 Construções que eles ocupam ao jogo.
+tooltip.legends=<size=125%><b>Expansão Lendária</b></size>\nAo jogar com a Expansão Lendária, cada jogador começa o jogo com uma Criatura e uma Construção Lendários poderosos.
+tooltip.legends.rugwort=<size=125%><b>Expansão Lendária</b></size>\nVocê começa com 1 Construção Lendária aleatória e 1 Criatura Lendária aleatória. Sempre que você jogar uma carta Lendária, dê 3 <sprite name="VPToken"> para Rugwort e ele poderá jogar 2 cartas em vez de 1.
+tooltip.rugwortcards=<size=125%><b>Cartas de Rugwort</b></size>\nAdiciona 3 novas cartas de Rugwort ao jogo. Mas esteja avisado, assim como o próprio Rugwort, elas são bem cruéis!
+log.stack.scurrble= <color=[color]>[name]</color> acumulou um Campeão de Scurrble.
+log.play.cirrus= <color=[color]>[name]</color> joga [card] para sua cidade usando Cirrus Windfall.
+log.givecard.for.vp=<color=[color]>[name]</color> deu <color=[color2]>[name2]</color> [X] <sprite name="Cards"> para ganhar [X2] <sprite name="VPToken"> .
+log.swap.hands=<color=[color]>[name]</color> usa [card] para trocar de mãos com <color=[color2]>[name2]</color>
+log.effect.rugworts.rowdy.target=<color=[color]>[name]</color> troca [card] de <color=[color2]>[name2]</color> por Rugwort, o Arruaceiro.
+log.effect.rugworts.rowdy.discard.0=<color=[color]>[name]</color> não tem cards para descartar para Rugworts, o Arruaceiro.
+log.effect.rugworts.rowdy.discard.1=Rugworts, o Arruaceiro, faz com que <color=[color]>[name]</color> descarte [card].
+log.effect.rugworts.rowdy.discard.2=Rugworts, o Arruaceiro, faz com que <color=[color]>[name]</color> descarte [card] e [card2].
+log.effect.rugworts.juggler.option.1=<color=[color]>[name]</color> Paga 3 <sprite name="Twigs"> para ganhar 4 <sprite name="VPToken"> com o Malabarista.
+log.effect.rugworts.juggler.option.2.reveal=<color=[color]>[name]</color> Paga 1 <sprite name="Twigs"> para revelar uma carta do baralho com o Malabarista. Eles revelam [card] que vale [X] <sprite name="VPToken">, totalizando [X2] <sprite name="VPToken"> revelados até o momento.
+log.effect.rugworts.juggler.option.2.resolved.success=<color=[color]>[name]</color> Ganha 6 <sprite name="VPToken"> por revelar cartas com valor total igual ou superior a 6 <sprite name="VPToken">. Todas as cartas reveladas são descartadas.
+log.effect.rugworts.juggler.option.2.resolved.fail=<color=[color]>[name]</color> Recusou-se a continuar revelando cartas antes de atingir a meta de 6 <sprite name="VPToken">. Todas as cartas reveladas são descartadas.
+log.effect.gazette=<color=[color]>[name]</color> coloca um <sprite name="VPToken"> na Gazeta por concluir um evento.
+log.effect.scurrble.stadium.draw=<color=[color]>[name]</color> nomeia [tipo de carta] com Estádio Scurrble e compra [X] cartas.
+log.effect.scurrble.stadium.result.success=<color=[color]>[name]</color> revela [card] para mostrar que comprou um card da cor indicada e ganha 3 <sprite name="VPToken">
+log.effect.scurrble.stadium.result.fail=<color=[color]>[name]</color> não comprou nenhum card da cor indicada.
+log.legendary.replacement=<color=[color]>[name]</color> substitui [card] pelo card lendário [card2].
+log.legendary.effect.cirrus=<color=[color]>[name]</color> usa Cirrus Windfall para jogar [card] de graça.
+log.legendary.effect.poe=<color=[color]>[name]</color> usa Poe para descartar [X] cards e então compra [X2] cards até o limite da mão.
+log.legendary.trigger.foresight.cards=<color=[color]>[name]</color> compra [X] cartas com Previsão por jogar uma Criatura.
+log.legendary.trigger.foresight.resources=<color=[color]>[name]</color> ganha [resource] com Previsão por jogar uma Construção.
+log.copy.event=<color=[color]>[name]</color> usa [card] para realizar [event] gratuitamente.
+log.legendary.effect.green.acorn=<color=[color]>[name]</color> usa Bolota Verde para jogar [card] com a seguinte redução de custo: [resource list].
+log.legendary.effect.silver.scale.spring=<color=[color]>[name]</color> coloca a Fonte de Escamas Prateadas sob [card] para comprar 2 cards e ganhar os seguintes recursos: [resource list]
+log.legendary.effect.bridge.sky=<color=[color]>[name]</color> coloca [card] em cima da Ponte do Céu e reduz seu custo pelos seguintes recursos: [resource list]
+leaf.card.base.bard=Você pode escolher até 5 cards para descartar.
+leaf.card.base.cemetery.pile=Escolha uma pilha para revelar.
+leaf.card.base.cemetery.play=Você pode escolher uma carta para jogar gratuitamente.
+leaf.card.base.chipsweep=Varredura de Fichas: Escolha uma carta de <color=#6E8D43><b>Produção</b></color> para ativar.
+leaf.card.base.chipsweep.none=Varredura de Fichas: Nenhuma carta de <color=#6E8D43><b>Produção</b></color> para ativar.
+leaf.card.base.clocktower.activate=Escolha um local onde você tenha um trabalhador para ativar com a Torre do Relógio.
+leaf.card.base.crane=Escolha os recursos a serem pagos.
+leaf.card.base.doctor=Médico: Você pode pagar frutas para ganhar <sprite name="VPToken">
+leaf.card.base.dungeon.critter=Escolha uma criatura para se tornar um prisioneiro.
+leaf.card.base.dungeon.discount=Escolha os recursos para descontar com a Masmorra.
+leaf.card.base.fool=Escolha o oponente para ganhar o Louco.
+leaf.card.base.husband=Escolha um Coletor para parear ou jogar para a Cidade.
+leaf.card.base.inn.card=Selecione uma carta da Campina para jogá-la por 3 recursos a menos de <sprite name="AnyResource"> recursos.
+leaf.card.base.inn.discount=Escolha os recursos a pagar.
+leaf.card.base.innkeeper=Escolha os recursos a pagar.
+leaf.card.base.judge=Escolha um recurso para substituir o custo da carta que você está jogando.
+leaf.card.base.lookout=Escolha o local Básico ou Floresta para copiar.
+leaf.card.base.minermole=Toupeira Mineradora: Escolha uma carta de <color=#6E8D43><b>Produção</b></color> do oponente para copiar.
+leaf.card.base.minermole.none=Toupeira Mineradora: Nenhuma carta de <color=#6E8D43><b>Produção</b></color> para copiar.
+leaf.card.base.monastery.resources=Escolha os recursos que o oponente deve ganhar.
+leaf.card.base.monastery.selectplayer=Escolha o oponente para ganhar recursos.
+leaf.card.base.monk.resources=Monge: Escolha as frutas que o oponente deve ganhar.
+leaf.card.base.monk.selectplayer=Monge: Escolha um oponente para ganhar frutas.
+leaf.card.base.peddler=Mascate: Escolha os recursos para trocar.
+leaf.card.base.postalpigeon=Escolha uma carta para jogar gratuitamente.
+leaf.card.base.postalpigeon.none=Nenhuma carta válida para jogar
+leaf.card.base.postoffice.discard.optional=Você pode escolher cartas para descartar.
+leaf.card.base.postoffice.discard.required=A mão do oponente está cheia, escolha as cartas que você deve descartar.
+leaf.card.base.postoffice.give=Escolha as cartas para dar ao oponente.
+leaf.card.base.postoffice.selectplayer=Escolha o oponente para quem dar cartas.
+leaf.card.base.queen=Escolha a carta para jogar com a Rainha.
+leaf.card.base.ranger.destination=Escolha o local para mover o trabalhador.
+leaf.card.base.ranger.worker=Escolha o trabalhador para mover.
+leaf.card.base.rugwort.fool=Escolha uma carta para remover da cidade de Rugworts.
+leaf.card.base.ruins=Escolha uma Construção para substituir.
+leaf.card.base.shepherd.selectplayer=Pastor: Escolha um oponente para obter recursos.
+leaf.card.base.storehouse=Escolha a ficha de recurso para adicionar ao Depósito.
+leaf.card.base.teacher.discard=Professor: Escolha a carta para descartar.
+leaf.card.base.teacher.give=Professor: Escolha a carta para dar ao oponente.
+leaf.card.base.teacher.selectplayer=Professor: Escolha o oponente para dar a carta.
+leaf.card.base.undertaker.discard=Escolha três cartas na Campina para substituir
+leaf.card.base.undertaker.draw=Escolha uma carta para comprar da Campina
+leaf.card.base.university.discard=Escolha a carta da cidade para descartar.
+leaf.card.base.wife=Escolha um Colhedor para parear ou jogar para a Cidade.
+leaf.card.base.woodcarver=Entalhador: Você pode pagar <sprite name="Twigs"> para ganhar <sprite name="VPToken">
+leaf.card.ce.greenacorn.discount=Escolha os recursos para pagar.
+leaf.card.ce.bridgeofthesky=Escolha os recursos para pagar.
+leaf.forestlocations.base.draw2meadowandplaydiscountedvisit.discount=Escolha os recursos para pagar.
+leaf.forestlocations.copybasiclocationanddraw=Escolha um local básico para copiar.
+leaf.forestlocations.discardtodrawdouble=Escolha uma carta para descartar.
+leaf.forestlocations.discardtogainany=Você pode escolher até 3 cartas para descartar.
+leaf.forestlocations.draw2meadowandplaydiscountedvisit.draw=Escolha duas cartas da Campina para comprar
+leaf.forestlocations.draw2meadowandplaydiscountedvisit.play=Você pode escolher uma carta comprada para jogar.
+leaf.givencard.description={0} lhe deu {1} <sprite name="Cards">.
+leaf.givencard.header=Carta recebida
+leaf.haven.select=Escolha as cartas para descartar.
+leaf.haven.select.opponent=[jogador] está escolhendo cartas para descartar para Refúgio.
+leaf.journey.select=Escolha as cartas para descartar.
+leaf.journey.select.opponent=[jogador] está escolhendo cartas para descartar para Jornada.
+leaf.location.select=Escolha um local para atribuir o trabalhador.
+leaf.play.method=Escolha como jogar a carta.
+leaf.haven.select.opponent= leaf.play.modifiers.select=Você pode escolher uma habilidade de jogo de cartas para ativar.
+leaf.play.occupy.select=Jogar de graça ocupando esta construção?
+leaf.resources.any.multiple=Escolha {0} recursos para ganhar.
+leaf.resources.any.multiple.opponent=[player] está escolhendo recursos para ganhar.
+leaf.resources.any.singular=Escolha um recurso para ganhar.
+leaf.resources.any.singular.opponent=[player] está escolhendo um recurso para ganhar.
+leaf.resources.tokens=Escolha fichas de recurso para adicionar.
+leaf.season.summer.draw.one=Escolha uma carta da Campina para comprar no verão.
+leaf.season.summer.draw.opponent=[player] está escolhendo duas cartas da Campina para comprar no verão.
+leaf.season.summer.draw.two=Escolha duas cartas da Campina para comprar no verão.
+leaf.specialevent.base.abrilliantmarketingplan=Escolha um oponente para doar recursos.
+leaf.specialevent.base.abrilliantmarketingplan.opponent=[player] está escolhendo um oponente para doar recursos.
+leaf.specialevent.base.abrilliantmarketingplan.resources=Escolha recursos para doar em troca de Pontos de Vitória.
+leaf.specialevent.base.abrilliantmarketingplan.resources.opponent=[player] está escolhendo recursos para doar em troca de Pontos de Vitória.
+leaf.specialevent.base.ancientscrollsdiscovered=Escolha qualquer número de cartas para comprar. As que não forem compradas valerão <sprite name="1VPSmall"> .
+leaf.specialevent.base.aneveningoffireworks=Escolha até três <sprite name="Twigs"> para gastar com <sprite name="2VPSmall"> cada.
+leaf.specialevent.base.awellruncity=Escolha um trabalhador para trazer de volta.
+leaf.specialevent.base.captureoftheacornthieves=Você pode escolher Criaturas para colocar abaixo do Evento.
+leaf.specialevent.base.croakwartcure=Escolha cartas de cidade para descartar.
+leaf.specialevent.base.graduationofthescholars=Você pode escolher Criaturas para colocar abaixo do Evento.
+leaf.specialevent.base.performerinresidence=Escolha até três frutas para gastar com <sprite name="2VPSmall"> cada.
+leaf.specialevent.base.undernewmanagement=Escolha até três recursos para gastar com Pontos de Vitória. <br><sprite name="1VPSmall"> para <sprite name="Twigs"> e <sprite name="Berries"> e <sprite name="2VPSmall"> para <sprite name="Pebbles"> e <sprite name="Resin">
+leaf.turn.select=Faça uma seleção.
+leaf.turn.select.cardorpass=Jogue uma carta ou encerre seu turno.
+leaf.turn.select.cardorpass.opponent=[player] está fazendo uma seleção.
+leaf.turn.select.cardorprepare=Jogue uma carta ou prepare-se para a próxima estação.
+leaf.turn.select.cardorprepare.opponent=[player] está escolhendo jogar uma carta ou preparar-se para a estação.
+leaf.turn.select.opponent=[player] está fazendo uma seleção.
+leaf.turn.select.pass=Encerre seu turno.
+leaf.turn.select.pass.opponent=[player] está fazendo uma seleção.
+leaf.turn.select.prepare=Prepare-se para a próxima temporada.
+leaf.turn.select.prepare.opponent=[player] está escolhendo jogar uma carta ou se preparar para a temporada.
+leaf.turn.select.worker=Coloque um trabalhador.
+leaf.turn.select.worker.opponent=[player] está escolhendo colocar um trabalhador ou jogar uma carta.
+leaf.turn.select.workerorcard=Colocar um trabalhador ou jogar uma carta.
+leaf.turn.select.workerorcard.opponent=[player] está escolhendo colocar um trabalhador ou jogar uma carta.
+prompt.addresourcetokens.header=Escolha os marcadores de recurso para adicionar.
+prompt.comfirm.seasonchange=Você tem cartas para jogar. Tem certeza de que deseja se preparar para a próxima temporada?
+prompt.confirm.pass=Você tem cartas para jogar. Tem certeza de que deseja passar?
+prompt.continueuse.header=Pague 1 <sprite name="Twigs"> para revelar outra carta?
+prompt.currentseason.autumn=Estação Atual: <sprite name="Autumn"> Outono
+prompt.currentseason.spring=Estação Atual: <sprite name="Spring"> Primavera
+prompt.currentseason.summer=Estação Atual: <sprite name="Summer"> Verão
+prompt.currentseason.winter=Estação Atual: <sprite name="Winter"> Inverno
+prompt.discard.draghere=Arraste<br>Aqui
+prompt.discountresources.header=Recursos com Desconto
+prompt.dontshowagain=Não mostrar novamente
+prompt.exchangeresources.error.noneavailable=Você não tem recursos para trocar.
+prompt.exchangeresources.give=Dar
+prompt.exchangeresources.header=Recursos da Troca
+prompt.exchangeresources.receive=Receber
+prompt.gainanyresources.header=Escolher Recursos
+prompt.gameresults.defeat=Derrotar
+prompt.gameresults.victory=Vitória
+prompt.judge.replace=Substituir
+prompt.judge.with=Por
+prompt.leaderboards.explanation=Pontuação da Tabela de Classificação\nEsta Tabela de Classificação acompanha o desempenho em jogos online de Everdell. Você começa com 100 pontos ao criar uma conta e ganha pontos adicionais por jogar. Ao concluir uma partida, cada participante ganha 1 ponto por finalizá-la e 1 ponto por cada oponente derrotado.
+prompt.lileverdellneverplayed=Gostando de Everdell e quer compartilhar com um jogador mais jovem ou menos experiente? Welcome To Everdell é uma ótima opção, com regras semelhantes, porém mais simples, e a mesma estética da floresta.
+prompt.lileverdellplayed=Bem-vindo a Everdell! Muitas das regras e tipos de cartas serão familiares para você, mas ainda recomendamos que você jogue o tutorial completo, pois a estrutura de turnos de Everdell é diferente de Welcome To Everdell. Gostaria de ir lá agora?
+prompt.meadow.header=A Campina
+prompt.occupyconstruction.header=Ocupar Construção
+prompt.paidresources.error.noneavailable=Você não possui recursos do tipo correto para pagar.
+prompt.passandplay.pass=Passar para {0}
+prompt.payresources.header=Pagar Recursos
+prompt.replaceresources.header=Substituir Recursos
+prompt.reportplayer.dropdown=Selecione o motivo da denúncia
+prompt.seasonoverview.autumn=<sprite name="Autumn">Outono: Ganhe 2 trabalhadores e ative todas as cartas de <color=#6E8D43><b>Produção</b></color> da sua cidade.
+prompt.seasonoverview.header=Prepare-se para a Visão Geral da Temporada
+prompt.seasonoverview.spring=<sprite name="Spring">Primavera: Ganhe 1 novo trabalhador e ative todas as cartas de <color=#6E8D43><b>Produção</b></color> da sua cidade.
+prompt.seasonoverview.summer=<sprite name="Summer">Verão: Ganhe 1 novo trabalhador. Compre até 2 cartas da Campina.
+prompt.select.production=Escolha uma carta de <color=#6E8D43><b>Produção</b></color> para ativar.
+prompt.selectcard.header=Selecionar Carta
+prompt.selectcardability.header=Selecionar Habilidade da Carta
+prompt.selectcardcolor.header=Selecionar Cor
+prompt.selectcostmodifier.header=Selecionar Habilidade de Jogo
+prompt.selectlegendaryreplacement.header=Substituir Carta
+prompt.selectopponent.header=Selecionar Oponente
+prompt.selectopponentresources.header=Selecionar Recursos
+prompt.selectpile.header=Selecionar Pilha
+prompt.selectpile.pilecount=Contagem: {0}
+prompt.selectresources.more.confirmation=Tem certeza de que deseja prosseguir? Você ainda pode selecionar mais recursos.
+prompt.taptoviewcards.play=Jogar Carta
+prompt.taptoviewcards.unselect=Desmarcar Carta
+prompt.warning.chip=Você não selecionou uma carta para copiar. Tem certeza de que deseja pular o uso do Chip Sweep?
+prompt.warning.mole=Você não selecionou uma carta para copiar. Tem certeza de que deseja pular o uso do Miner Mole?
+settings.toggle.nohusbandwife=Everdell para Todos
+settings.toggle.usetaptoviewcards=Toque para Ver Carta
+prompt.hasplayedseed.body=Você já jogou o jogo irmão de Everdell, Welcome To Everdell?
+crosspromo.hasplayedseed.description=Obrigado por jogar Everdell! Muitas das regras e tipos de cartas lhe serão familiares, mas ainda recomendamos que jogue o tutorial completo, pois a estrutura de turnos de Everdell é diferente de Welcome To Everdell. Gostaria de ir para o tutorial agora?
+crosspromo.hasnotplayedseed.description=Gostando de Everdell e quer compartilhar com um jogador mais jovem ou menos experiente? Welcome To Everdell é uma ótima opção, com regras semelhantes, porém mais simples, e a mesma estética de bosque.
+crosspromo.hasnotplayedseed.description.short=Gostando de Everdell? Experimente o Welcome To Everdell!
+prompt.tutorialftt.body=Gostaria de jogar o tutorial?
+prompt.selectopponent.error.nocards=Nenhum oponente possui cartas na mão. Tem certeza de que deseja jogar esta carta?
+prompt.continuejuggling.header=Revelar outra carta?
+leaf.play.legendary.replace.select=Jogue uma carta lendária gratuitamente descartando [nome da carta]
+prompt.towncrier.notenoughcards=Você não possui cartas suficientes na mão para usar a habilidade do Arauto da Cidade. Tem certeza de que deseja jogá-la?
+tooltip.basicevent.citymonument=<size=125%><b>Monumento da Cidade</b></size>\nVocê precisa ter 3 cartas <sprite name="Governance"> na sua cidade para reivindicar este Evento.
+tooltip.basicevent.citymonument.needed=<i>{0} mais <sprite name="Governance"> necessário.</i>
+tooltip.basicevent.grandtour=<size=125%><b>Grand Tour</b></size>\nVocê precisa ter 3 cartas <sprite name="Destination"> em sua cidade para reivindicar este Evento.
+tooltip.basicevent.grandtour.needed=<i>{0} mais <sprite name="Destination"> necessário.</i>
+tooltip.basicevent.harvestfestival=<size=125%><b>Festival da Colheita</b></size>\nVocê precisa ter 4 cartas <sprite name="Production"> em sua cidade para reivindicar este Evento.
+tooltip.basicevent.harvestfestival.needed=<i>Mais {0} <sprite name="Production"> necessários.</i>
+tooltip.basicevent.cartographersexpedition=<size=125%><b>Expedição do Cartógrafo</b></size>\nVocê precisa ter 3 cartas de <sprite name="Traveler"> na sua cidade para reivindicar este Evento.
+tooltip.basicevent.cartographersexpedition.needed=<i>Mais {0} <sprite name="Traveler"> necessários.</i>
+tooltip.forestlocation.twocardsany=Compre 2 <sprite name="Cards"> e ganhe 1 <sprite name="AnyResource">.
+tooltip.forestlocation.twoany=Ganhe 2 <sprite name="AnyResource">.
+tooltip.forestlocation.twomeadowplayone=Compre 2 <sprite name="Cards"> da Campina e jogue uma por 1 a menos <sprite name="AnyResource">.
+tooltip.forestlocation.discardthreeanythree=Descarte até 3 <sprite name="Cards"> e ganhe 1 <sprite name="AnyResource"> para cada descarte.
+tooltip.forestlocation.discarddrawtwo=Descarte qualquer número de <sprite name="Cards"> e compre 2 <sprite name="Cards"> para cada descarte.
+tooltip.forestlocation.basiclocdrawcard=Copie qualquer local Básico do tabuleiro e compre 1 <sprite name="Cards">.
+tooltip.forestlocation.threeberries=Ganhe 3 <sprite name="Berries">.
+tooltip.forestlocation.tworesinonetwig=Ganhe 2 <sprite name="Resin"> e 1 <sprite name="Twigs">.
+tooltip.forestlocation.threecardsonepebble=Ganhe 3 <sprite name="Cards"> e 1 <sprite name="Pebbles">.
+tooltip.forestlocation.twoberriesonecard=Ganhe 2 <sprite name="Berries"> e compre 1 <sprite name="Cards">.
+tooltip.forestlocation.twigresinberry=Ganhe 1 <sprite name="Twigs">, 1 <sprite name="Resin"> e 1 <sprite name="Berries">.
+tooltip.basiclocation.threetwigs=Ganhe 3 <sprite name="Twigs">.
+tooltip.basiclocation.twigcard=Ganhe 2 <sprite name="Twigs"> e compre 1 <sprite name="Cards">.
+tooltip.basiclocation.tworesin=Ganhe 2 <sprite name="Resin">.
+tooltip.basiclocation.resincard=Ganhe 1 <sprite name="Resin"> e compre 1 <sprite name="Cards">.
+tooltip.basiclocation.pebble=Ganhe 1 <sprite name="Pebbles">.
+tooltip.basiclocation.vpcard=Ganhe 1 <sprite name="VPToken"> e compre 2 <sprite name="Cards">.
+tooltip.basiclocation.berry=Ganhe 1 <sprite name="Berries">.
+tooltip.basiclocation.berrycard=Ganhe 1 <sprite name="Berries"> e compre 1 <sprite name="Cards">.
+tooltip.haven=Descarte qualquer número de <sprite name="Cards"> e ganhe 1 <sprite name="AnyResource"> para cada 2 descartados.
+tooltip.journey=Descarte <sprite name="Cards"> igual ao número de <sprite name="VPToken"> neste local. O trabalhador destacado vale o número listado de <sprite name="VPToken"> ao final do jogo. Disponível apenas no outono.
+tooltip.card=Cartas
+tooltip.twigs=Galhos
+tooltip.resin=Resina
+tooltip.pebbles=Pedrinhas
+tooltip.berries=Frutas
+tooltip.victorypoints=Pontos de Vitória
+tooltip.workercount=Contagem de Trabalhadores
+tooltip.season.winter=Inverno
+tooltip.season.spring=Primavera
+tooltip.season.summer=Verão
+tooltip.season.autumn=Outono
+tooltip.prepareforseason.spring=<size=125%><b>Prepare-se para a Temporada: <sprite name="Spring"> Primavera </b></size>\nGanhe 1 trabalhador e ative toda a <sprite name="Production"> da sua cidade.
+tooltip.prepareforseason.summer=<b>Prepare-se para a Temporada: <sprite name="Summer"> Verão</b></size>\nGanhe 1 trabalhador e compre 2 <sprite name="Cards"> da Campina.
+tooltip.prepareforseason.autumn=<b>Prepare-se para a Temporada: <sprite name="Autumn">Outono</b></size>\nGanhe 2 trabalhadores e ative todos os <sprite name="Production"> da sua cidade.
+tooltip.pass=Finalize seu turno. Você não poderá realizar nenhuma outra ação até o final do jogo.
+tooltip.settings=<b>Configurações</b>
+tooltip.direbytes=<b>Notícias do Lobo Terrível</b>
+tooltip.leaderboards=<b>Placar de Líderes</b>
+tooltip.friends=<b>Amigos</b>
+tooltip.achievements=<b>Conquistas</b>
+tooltip.minimize=<b>Minimizar</b>
+tooltip.expand=<b>Expandir</b>
+tooltip.chat=<b>Bate-papo</b>
+tooltip.challengeinfo=<b>Regras do Desafio</b>
+tooltip.actionlog=<b>Registro de Ações</b>
+tooltip.gameoptions.timer.fast=<size=125%><b>3 Minutos</b></size>\nPara jogadores que desejam terminar uma partida em uma única sessão. Cada jogador tem três minutos para jogar sua vez antes que seus movimentos sejam resolvidos por uma IA. Após três turnos inativos consecutivos, eles serão substituídos permanentemente por uma IA.
+tooltip.gameoptions.timer.slow=<size=125%><b>3 Dias</b></size>\nPara jogadores que desejam jogar uma partida em várias sessões ou sem se preocupar com limites de tempo curtos. Cada jogador deve fazer uma jogada a cada três dias ou será substituído por uma IA.
+tooltip.scoreboard.hide=Retornar ao mapa
+tooltip.scoreboard.show=Retornar ao placar
+tooltip.showcity=Mova a câmera para sua cidade
+tooltip.showtree=Mova a câmera para a Árvore Eterna
+tooltip.citycount=O número de cartas nesta cidade
+tooltip.friendslist.owned=Possui Everdell
+tooltip.friendslist.unowned=Não possui Everdell
+tooltip.rugwort.rules=Regras do Rugwort
+tooltip.specialevent.placedresources=Recursos Colocados
+tooltip.specialevent.placedcards=Cartas Colocadas
+tooltip.eventsclaimed=Eventos Reivindicados
+tooltip.resourcestotal=Recursos Restantes
+tooltip.opendestinations=Destinos Abertos
+tooltip.privategame=Senha Requerida
+tooltip.meadow=Ver cartas da Campina
+tooltip.nohusbandwife=Esta opção substitui a arte da carta Marido/Esposa pela arte Colhedor/Coletor do pacote de cartas Everdell para Todos. A funcionalidade das cartas permanece inalterada.
+tooltip.usetaptoviewcards=Esta opção adiciona uma etapa de confirmação para jogar cartas e interagir com objetos. Feita para quem tem telas pequenas ou mãos grandes.
+tooltip.moreeverdell=Mais Everdell
+rules.title.overview=Visão Geral
+rules.description.overview=Em Everdell, você enviará trabalhadores para vários locais do mapa a fim de coletar recursos, que você usará para jogar cartas que formarão sua cidade na floresta.<br><br>A cada turno, você realizará apenas uma das três ações possíveis:<br><br>• Colocar um Trabalhador<br>• Jogar uma Carta<br>• Preparar-se para a Temporada<br><br>Você pode colocar um de seus trabalhadores em qualquer local, desde que ele não esteja bloqueado por outro jogador ou que o local permita vários trabalhadores. Reivindique imediatamente os recursos listados ou execute a ação.<br><br>Para jogar uma carta, você deve pagar o custo de recursos listado. As cartas podem ser jogadas da sua mão ou das cartas na Campina.<br><br>Se todos os seus trabalhadores estiverem mobilizados, você pode se preparar para a próxima temporada trazendo de volta todos os seus trabalhadores, ganhando um novo trabalhador (ou trabalhadores) e executando a ação descrita para a temporada seguinte.<br><br>Um jogador termina o jogo quando joga a última temporada e não pode executar mais nenhuma ação. Após todos os jogadores terminarem, o jogador com mais pontos é o vencedor.
+rules.title.setup=Configurar
+rules.description.setup=1) 4 locais aleatórios de Floresta são colocados na área da Floresta (3 se jogar com dois jogadores).<br><br>2) 4 Eventos especiais aleatórios são adicionados à área da Árvore Eterna.<br><br>3) 8 cartas aleatórias são colocadas na área da Campina.<br><br>4) Cada jogador ganha 2 trabalhadores.<br><br>5) As cartas são distribuídas. O primeiro jogador compra 5 cartas do baralho, o segundo jogador 6 cartas, o terceiro jogador 7 cartas e o quarto jogador 8 cartas.
+rules.title.howtoplay=Como Jogar
+rules.description.howtoplay=Existem dois tipos de locais: exclusivos e compartilhados. Apenas 1 trabalhador pode visitar um local exclusivo. Vários trabalhadores, mesmo da mesma cor, podem visitar um local compartilhado.<br><br>Os jogadores se revezarão realizando uma das seguintes ações. Essas ações podem ser realizadas em qualquer ordem, mas apenas uma ação pode ser realizada por turno.<br><br>• Posicionar um Trabalhador<br>• ou Jogar uma Carta<br>• ou Preparar-se para a Temporada
+rules.subtitle.placeaworker=Posicionar um Trabalhador
+rules.description.howtoplay2=Seus trabalhadores são necessários para a expansão e o sucesso da sua cidade.<br><br>Você os enviará para vários locais em Everdell para coletar recursos, comprar mais cartas, sediar Eventos ou talvez embarcar em uma Jornada.<br><br>Para visitar um local, coloque um de seus trabalhadores em qualquer símbolo <sprite name="OpenLocation"> ou <sprite name="WorkerLocation"> disponível. Você então obterá os recursos listados ou executará a ação. Esse trabalhador é considerado enviado para aquele local até que você o traga de volta com a ação Preparar-se para a Temporada.
+rules.title.locationstovisit=Locais para Visitar
+rules.subtitle.basiclocations=Locais Básicos
+rules.description.basiclocations=Esses locais estão disponíveis em todas as partidas e fornecem aos jogadores recursos básicos, cartas e Pontos de Vitória.
+rules.subtitle.forestlocations=Locais da Floresta
+rules.description.forestlocations=Estes são locais variados e geralmente mais poderosos que você pode visitar. A cada partida, um número limitado de locais da Floresta é adicionado a partir de um conjunto maior de possibilidades.<br><br>Em partidas de 4 jogadores, um segundo espaço de trabalhador é adicionado aos Locais da Floresta. No entanto, cada jogador pode ter no máximo 1 trabalhador atribuído a um único local da floresta.
+rules.subtitle.destinationcards=Cartas de <color=#752E32><b>Destino</b></color>
+rules.description.destinationcards=Você pode colocar um trabalhador em qualquer carta de <color=#752E32><b>Destino</b></color> em sua cidade, ou em uma carta de <color=#752E32><b>Destino</b></color> em outra cidade que tenha um símbolo aberto. Nesse caso, o dono do <color=#752E32><b>Destino</b></color> ganha 1 Ponto de Vitória.
+rules.subtitle.events=Eventos
+rules.description.events=Você também pode colocar 1 de seus trabalhadores em qualquer Evento básico ou Evento especial restante para realizá-lo. Para realizá-lo, você deve atender a todos os requisitos listados no Evento e pagar todos os recursos necessários no momento em que colocar seu trabalhador lá. Apenas um jogador pode realizar cada Evento. Você precisa conseguir completar o Evento para colocar um trabalhador nele. Você receberá o trabalhador de volta normalmente na próxima temporada.
+rules.subtitle.haven=Refúgio
+rules.description.haven=O Refúgio é um espaço compartilhado. Não há limite para a quantidade de trabalhadores que podem ser colocados nele, mesmo pelo mesmo jogador. Ao acessar este local, você pode descartar qualquer número de cartas da sua mão e ganhar 1 de qualquer recurso para cada 2 cartas descartadas.
+rules.subtitle.journey=Jornada
+rules.description.journey=Apenas no outono, você pode enviar um trabalhador em uma Jornada. Você deve descartar cartas em número igual aos pontos listados do local de Jornada que você escolher. Os locais de 5, 4 e 3 pontos são exclusivos, e o local de 2 pontos é compartilhado. O trabalhador destacado vale os pontos listados ao final do jogo. Você pode enviar mais de um trabalhador em uma Jornada.
+rules.title.playingcards=Cartas de Baralho
+rules.description.playingcards=Você pode jogar uma carta para sua cidade. Para jogar uma carta, você deve cumprir os requisitos listados. As cartas podem ser jogadas das cartas da Campina ou da sua mão.<br><br>Existem dois tipos de cartas no jogo: Criaturas e Construções. Você pode ter várias cópias de qualquer carta Comum em sua cidade, mas pode ter apenas uma cópia específica de qualquer carta Única.
+rules.description.playingcards2=Você pode pagar o custo necessário em frutas para jogar a carta de Criatura ou, se a Construção listada no canto superior esquerdo da carta de Criatura já estiver na sua cidade, você pode jogar a carta de Criatura sem pagar o custo em frutas.<br><br><b>Importante: Ao jogar uma Carta de Criatura de graça usando a Construção relacionada, coloque uma ficha de "Ocupada" na Construção. Você só pode fazer isso uma vez por Construção.<b>
+rules.description.playingcards3=<i>Observe que a ficha de ocupado não é removida da carta de Construção se a Carta de Criatura livre for removida posteriormente da sua cidade.
+rules.subtitle.city=Cidade
+rules.description.city=Sua cidade tem no máximo 15 espaços para jogar cartas. Cada carta ocupa 1 espaço. Eventos não contam para este limite de 15 cartas.
+rules.subtitle.cardcolors=Tipos de Carta (Cores)
+rules.description.traveler=<b><color=#817053>Viajante Bronzeado</color>:</b> Ativa imediatamente ao ser jogado. Nunca mais será ativado.
+rules.description.production=<b><color=#6E8D43>Produção Verde</color>:</b> Ativa uma vez imediatamente ao ser jogado e uma vez durante as ações de Preparação para a Temporada na primavera e no outono.
+rules.description.destination=<b><color=#752E32>Destino Vermelho</color>:</b> Ativa quando um trabalhador é colocado sobre ele. Cartas com o símbolo aberto podem ser visitadas por oponentes.
+rules.description.governance=<b><color=#2C6078>Governança Azul</color>:</b> Concede bônus após jogar certos tipos de cartas e oferece diferentes maneiras de jogar cartas com desconto.
+rules.description.prosperity=<b><color=#55418B>Prosperidade Roxa</color>:</b> Vale os pontos base e os pontos bônus listados ao final do jogo.
+rules.subtitle.drawingcards=Comprando Cartas
+rules.description.drawingcards=Há um limite estrito de 8 cartas na mão. Você nunca pode ter mais de 8 cartas. Se você puder comprar cartas, só poderá comprar até 8, não mais. Se for necessário dar cartas a um oponente, você deve escolher um oponente que tenha espaço na mão, se possível; dê o máximo de cartas possível; e descarte as restantes.<br><br>Quando uma carta da Campina é jogada, ela é imediatamente substituída por uma nova carta da pilha de compra. Se uma habilidade permitir que os jogadores comprem cartas das cartas da Campina, todas as cartas são compradas antes que a Campina seja reabastecida.<br><br>Se o baralho acabar, a pilha de descarte é embaralhada para formar um novo baralho.
+rules.title.prepareforseason=Prepare-se para a Temporada
+rules.description.prepareforseason=Se você posicionou todos os seus trabalhadores e não pode ou não deseja jogar uma carta, então você deve se preparar para a próxima temporada. Na sua vez, traga de volta todos os seus trabalhadores destacados e ganhe os bônus para a próxima temporada. Sua vez termina e o jogo continua com o próximo jogador.<br><br>Ao se preparar para a próxima temporada, novos trabalhadores da Árvore Eterna se juntam à sua cidade em crescimento. Ganhe o trabalhador correspondente e ative o bônus listado para a próxima temporada.
+rules.subtitle.spring=Primavera
+rules.description.spring=Na primavera, você ganha 1 novo trabalhador e ativa todas as cartas verdes de <color=#6E8D43><b>Produção</b></color> da sua cidade.
+rules.subtitle.summer=Verão
+rules.description.summer=No verão, você ganha 1 novo trabalhador e pode comprar até 2 cartas da Campina.
+rules.subtitle.autumn=Outono
+rules.description.autumn=No outono, você ganha 2 novos trabalhadores e ativa todas as cartas verdes de <color=#6E8D43><b>Produção</b></color> da sua cidade.
+rules.description.prepareforseason2=Tematicamente, o jogo começa no final do inverno e termina com a aproximação do próximo inverno. O outono é a última ação de Preparação para a Estação que você pode realizar no jogo.<br><br><b>Importante: Nem todos os jogadores precisam estar na mesma estação ao mesmo tempo. Por exemplo: Um jogador que se preparou para o verão não precisa esperar que outros jogadores se preparem para aquela estação para continuar a se revezar.</b>
+rules.title.endgame=Fim de Jogo
+rules.description.endgame=Quando você chegar ao final do outono e não puder realizar mais ações (ou não desejar), você terminou o jogo e deve passar. Se um jogador passou, ele não poderá receber cartas ou recursos. Se cartas ou recursos precisarem ser entregues a um jogador e todos os outros jogadores tiverem passado, descarte-os.<br><br>Os jogadores incompletos continuam jogando até que todos os jogadores tenham passado. Então, os pontos são somados e um vencedor é declarado.<br><br>Em caso de empate, o jogador que tiver alcançado mais Eventos vence. Se o empate persistir, o jogador com mais recursos restantes é o vencedor.
+rules.title.cardindex=Índice de Cartas
+rules.description.cardindex.pc=<i>Passe o mouse sobre a arte da carta para ver a carta completa.
+rules.description.cardindex.mobile=<i>Toque e segure a arte da carta para visualizá-la completa.
+rules.description.cardindex.gamepad=<i>Passe o mouse sobre a arte da carta e pressione <sprite name="X_Xbox"> para visualizá-la completa.
+rules.description.cardindex.gamepad.switch=<i>Passe o mouse sobre a arte da carta e pressione <sprite name="Y_Switch"> para visualizá-la completa.
+rules.subtitle.critters=Criaturas
+rules.subtitle.constructions=Construções
+rules.description.rugwort.normal=<size=125%><b>Preparação</b><br><size=100%>Você compra 5 cartas e Rugwort não compra nenhuma. Um dos trabalhadores de Rugwort é colocado na carta de Floresta superior esquerda, bloqueando-a. Seu outro trabalhador é colocado no espaço de ação de 3 galhos, bloqueando-o.<br><br><size=125%>><b>Jogando Cartas</b><br><size=100%>A qualquer momento após você jogar uma carta, Rugwort pode jogar uma carta da Campina (determinado por um dado de oito lados). As habilidades das cartas e os valores em pontos não importam para Rugwort.<br><br><size=125%><b>Preparar para a Estação</b><br><size=100%>Após você ter realizado a ação Preparar para a Estação, Rugwort imediatamente realiza sua ação Preparar para a Estação, que consiste nestas etapas:<br>1) Se Rugwort tiver as cores das cartas para ganhar um Evento básico, ele reivindica esse Evento.<br>2) O trabalhador de Rugwort é colocado na carta Campina nº 1 (nº 2 para o verão e nº 3 e nº 4 para o outono), então, ao final do jogo, ele terá um trabalhador nas 4 cartas da Campina do topo. Você não pode mais jogar essas cartas, mas Rugwort ainda pode.<br>3) O trabalhador Rugwort na Floresta é movido no sentido horário para a próxima carta de floresta. No outono, remova seu trabalhador da 3ª peça de Floresta e coloque-o no espaço de Jornada de 3 pontos.<br>4) O trabalhador Rugwort em um local Básico é movido para um novo local Básico (2 resinas na primavera, 1 seixo no verão, 1 baga e 1 carta no outono).<br><br><size=125%><b>Pontuação</b><br><size=100%>Rugwort marcará: 2 pontos por carta em sua cidade (3 pontos para cada carta roxa de <color=#55418B><b>Prosperidade</b></color>), 3 pontos para cada Evento básico que ele alcançou, 3 pontos para cada Evento especial que você não alcançou, 3 pontos para seu trabalhador em Jornada e quaisquer marcadores de ponto que você deu a ele.
+rules.description.rugwort.heroic=<size=125%><b>Preparação</b><br><size=100%>Você compra 5 cartas e Rugwort não compra nenhuma. Um dos trabalhadores de Rugwort é colocado na carta de Floresta no canto superior esquerdo, bloqueando-a. Seu outro trabalhador é colocado no espaço de ação de 3 galhos, bloqueando-o.<br><br><size=125%><b>Jogando Cartas</b><br><size=100%>A qualquer momento após você jogar uma carta, Rugwort pode jogar uma carta da Campina (determinado por um dado de oito lados). Habilidades de cartas e valores de pontos não importam para Rugwort.<br><br><size=125%><b>Preparar para a Estação</b><br><size=100%>Após você ter realizado a ação Preparar para a Estação, Rugwort imediatamente realiza sua ação Preparar para a Estação, que consiste nestes passos:<br>1) Se Rugwort tiver as cores de carta para ganhar um evento básico, ele reivindica esse evento.<br>2) O trabalhador de Rugwort é colocado na carta Campina #1 (#2 para o verão, e #3 e #4 para o outono), então ao final do jogo, ele terá um trabalhador nas 4 cartas da Campina do topo. Você não pode mais jogar essas cartas, mas Rugwort ainda pode.<br>3) O trabalhador de Rugwort na floresta é movido no sentido horário para a próxima carta de floresta. No outono, remova seu trabalhador da 3ª peça de Floresta e coloque-a no espaço de Jornada de 4 pontos.<br>4) O trabalhador de Rugwort em um local básico é movido para um novo local básico (2 resinas na primavera, 1 seixo no verão, 1 fruta e 1 carta no outono).<br><br><size=125%><b>Pontuação</b><br><size=100%>Rugwort pontuará: 2 pontos por carta em sua cidade (3 pontos para cada carta roxa de <color=#55418B><b>Prosperidade</b></color>), 3 pontos para cada Evento básico que ele alcançou, 6 pontos para cada Evento especial que você não alcançou, 4 pontos para seu trabalhador em Jornada e quaisquer marcadores de ponto que você deu a ele.
+rules.description.rugwort.legendary=<size=125%><b>Preparação</b><br><size=100%>Você compra 5 cartas e Rugwort não compra nenhuma. Um dos trabalhadores de Rugwort é colocado na carta de Floresta no canto superior esquerdo, bloqueando-a. Seu outro trabalhador é colocado no espaço de ação de 3 galhos, bloqueando-o.<br><br><size=125%><b>Cartas de Baralho</b><br><size=100%>A qualquer momento após você jogar uma carta, Rugwort pode jogar uma carta da Campina (determinado por um dado de oito lados). Habilidades de cartas e valores de pontos não importam para Rugwort.<br><br><size=125%><b>Preparar para a Estação</b><br><size=100%>Após você ter realizado a ação Preparar para a Estação, Rugwort imediatamente realiza sua ação Preparar para a Estação, que consiste nestes passos:<br>1) Se Rugwort tiver as cores de carta para ganhar um Evento básico, ele reivindica esse Evento.<br>2) O trabalhador de Rugwort é colocado na carta Campina #1 (#2 para o verão, e #3 e #4 para o outono), então ao final do jogo, ele terá um trabalhador nas 4 cartas da Campina do topo. Você não pode mais jogar essas cartas, mas Rugwort ainda pode.<br>3) O trabalhador de Rugwort na floresta é movido no sentido horário para a próxima carta de floresta. No outono, remova o trabalhador dele da 3ª peça de Floresta e coloque-o no espaço de Jornada de 5 pontos.<br>4) O trabalhador de Rugwort em um local básico é movido para um novo local básico (2 resinas na primavera, 1 seixo no verão, sequestro* no outono).<br>*<i>Durante a ação de outono de Rugwort, Prepare-se para a Temporada, ele sequestra um dos seus trabalhadores! Agora você terá apenas 5 trabalhadores para usar na última temporada do jogo.</i><br><br><size=125%><b>Pontuação</b><br><size=100%>Rugwort marcará: 2 pontos por carta em sua cidade (3 pontos para cada carta roxa de <color=#55418B><b>Prosperidade</b></color>), 3 pontos para cada Evento básico que ele alcançou, 6 pontos para cada Evento especial que você não alcançou, 5 pontos para seu trabalhador em Jornada e quaisquer marcadores de pontos que você tenha dado a ele.
+rules.title.legendary=Cartas Lendárias
+rules.subtitle.legendary.playing=Jogando com Cartas Lendárias
+rules.description.legendary.playing=Cartas lendárias são incluídas no jogo quando um jogador com a expansão Glimmergold decide adicioná-las durante a criação do jogo. Durante a preparação, cada jogador receberá 1 Construção Lendária e 1 Criatura Lendária. Essas cartas são mantidas em segredo, mas não contam para o seu limite de mão e não são consideradas como parte da sua "mão".
+rules.subtitle.legendary.rules=Regras
+rules.description.legendary.rules.intro=Cartas lendárias são jogadas da mesma forma que as cartas comuns do jogo, com as seguintes diferenças principais:
+rules.bridgeofthesky.legendary.cardtext=Você pode jogar 1 Construção por -3 <sprite name="AnyResource"> e, em seguida, colocá-la sobre esta carta. <br><br><sprite name="VPStar"> é igual ao valor <sprite name="VPToken"> da Construção sobre esta carta.
+rules.poe.legendary.flavortext="Nunca mais esquecerás as palavras dos sábios."
+rules.description.legendary.rules.body1=• Você pode jogar uma carta Lendária pagando o custo em recursos ou, se tiver a carta listada na bandeira vermelha, descarte-a da sua cidade e jogue a Lendária gratuitamente. A partir de agora, você não poderá jogar mais cópias da carta listada na bandeira vermelha na sua cidade.<br><br>• Para fins de realização de Eventos ou para jogar uma Criatura por meio de uma Construção gratuitamente, a carta Lendária conta como a carta listada na bandeira vermelha.
+rules.description.legendary.rules.body2=• Cada carta Lendária abre um espaço adicional na sua cidade.<br><br>• Cartas Lendárias não podem ser descartadas da sua Cidade por nenhum motivo.
+rugwortstrials.creategame=Provas de Rugwort
+rugwort.easy.name=Rugwort, o Malandro (Fácil)
+rugwort.normal.name=Rugwort, o Podre (Médio)
+rugwort.hard.name=Rugwort, o Rapscallion (Difícil)
+rugwort.prompt.dieroll=Rugwort está escolhendo uma carta para pegar na Campina!
+rugwort.creategame.rules=<size=150%><b>Visão Geral</b><br><size=100%>Neste modo solo, você competirá contra um velho roedor rabugento conhecido como Rugwort, que joga de acordo com suas próprias regras.<br><br>Você precisa encontrar uma maneira de superar seus truques covardes e livrar Everdell de sua imundície de uma vez por todas!
+rugwort.creategame.difficulty.description.normal=Sem alterações
+rugwort.creategame.difficulty.description.heroic=Rugwort vai para o espaço de Jornada de 4 pontos em vez do espaço de 3 pontos no outono.<br>Rugwort ganha 6 pontos para cada Evento especial que você não realizou, em vez de 3.
+rugwort.creategame.difficulty.description.legendary=Rugwort vai para o espaço de Jornada de 5 pontos em vez do espaço de 4 pontos no outono.<br>Rugwort ganha 6 pontos para cada Evento especial que você não realizou, em vez de 3.<br>No outono, Rugwort sequestra um de seus trabalhadores em vez de enviar um rufião para bloquear o local de 1 fruta e 1 carta.
+rugwort.creategame.rulesintrotoggle=Exibir Introdução às Regras
+rugwort.creategame.ruleschanges=Alterações nas Regras
+rugwort.creategame.select=Selecionar Dificuldade
+rugwort.playername.easy=Rugwort, o Malandro
+rugwort.playername.normal=Rugwort, o Podre
+rugwort.playername.hard=Rugwort, o Malandro
+rugwort.playername=Rugwort
+rugwort.intro.1=Pare, Estranho! Você está na presença do grande Rugwort, o Malandro.
+rugwort.intro.2=Por decreto real, não estou sujeito às regras normais destas terras.
+rugwort.intro.3=Eu não envio trabalhadores para coletar recursos ou usar efeitos de cartas. Em vez disso, sempre que você joga uma carta para sua cidade, eu jogo uma carta aleatória da Campina de graça.
+rugwort.intro.4=As cartas na minha cidade não têm efeito algum além de valerem <sprite name="2VPSmall"> (<sprite name="3VPSmall"> por cartas de <sprite name="Prosperity"> <color=#55418B><b>Prosperidade</b></color>)
+rugwort.intro.5=Quando você se Prepara para a Temporada, eu reivindico quaisquer Eventos básicos com custo menor ou igual ao das cartas da mesma cor na minha cidade.
+rugwort.intro.6=Eu também ganho <sprite name="3VPSmall"> para cada Evento especial que você não conquistou no final do jogo.
+rugwort.intro.7=Fique de olho no meu bando de ratos rufiões. Eles bloquearão o acesso a novos locais sempre que você se preparar para a Temporada e reduzirão seu acesso a Campina.
+rugwort.intro.8=No final do jogo, pontuarei <sprite name="3VPSmall"> para cada Evento especial que você não tiver completado, além dos Pontos de Vitória ganhos pelo local da Jornada bloqueado pelos meus rufiões.
+rugwort.intro.9.pc=Para um lembrete deste decreto real, clique no ícone Rugwort a qualquer momento.
+rugwort.intro.9.mobile=Para um lembrete deste decreto real, toque no ícone Rugwort a qualquer momento.
+rugwort.intro.9.gamepad=Para um lembrete deste decreto real, pressione <sprite name="LeftStick_Switch"> a qualquer momento.
+rugwort.intro.9.gamepad.switch=Para um lembrete deste decreto real, pressione <sprite name="LeftStick_Switch"> a qualquer momento.
+rugwort.intro.9=Para um lembrete deste decreto real, clique no ícone Rugwort a qualquer momento.
+eula.acceptTerms=Concordo
+eula.requestUpdates=Envie-me notícias
+eula.title=Contrato de Licença do Usuário Final
+eula.body=<b>Licença</b><br>Ao usar este jogo da Dire Wolf Digital (o "Jogo") que contém este software, você concorda que este Contrato de Licença de Usuário Final ("Contrato") é um contrato legalmente vinculativo e válido e concorda em se comprometer com ele. Você concorda em cumprir as leis de propriedade intelectual e todos os termos e condições deste Contrato.<br><br><uppercase>LEIA ESTE CONTRATO DE LICENÇA DE USO FINAL COM ATENÇÃO E CERTIFIQUE-SE DE ENTENDER TODOS OS TERMOS E CONDIÇÕES A SEGUIR ANTES DE ACESSAR OU USAR OS SERVIÇOS DO JOGO.</uppercase><br><br>O uso do Jogo indica sua aceitação deste Contrato e da garantia.<br><br>Sujeito aos termos deste Contrato, a Dire Wolf Digital concede a você uma licença limitada, não exclusiva e intransferível, sem direito de sublicenciar, para usar o Jogo de acordo com este Contrato e qualquer outro Contrato por escrito com a Dire Wolf Digital. A Dire Wolf Digital não transfere o título do Jogo para você; a licença concedida a você não constitui uma venda. Este Contrato é um acordo legal vinculativo entre a Dire Wolf Digital e os compradores ou usuários do Jogo.<br><br>Se você não concorda em se comprometer com este Contrato, remova o Jogo do seu computador ou dispositivo similar agora mesmo.<br><br><b>Distribuição</b><br>O Jogo e a licença aqui concedida não devem ser copiados, compartilhados, distribuídos, revendidos, oferecidos para revenda, transferidos ou sublicenciados, no todo ou em parte.<br><br><b>Contrato do Usuário</b><br>Você deverá usar o Jogo em conformidade com todas as leis aplicáveis ​​e não para qualquer propósito ilegal. O uso do Jogo significa que você carregou, instalou ou executou o Jogo em um computador ou dispositivo similar.<br><br>Para usar a parte de serviços online do Jogo, você deve criar uma conta. Você só poderá criar uma conta se possuir plena capacidade legal em seu país de residência e não tiver sido especificamente proibido de criar uma Conta pela Dire Wolf Digital. Para os fins deste Contrato, serviços online indicam os meios e métodos para se conectar a outros jogadores para participar de bate-papo e jogar jogos multijogador.<br><br>Você não deve usar, criar, promover ou distribuir cheats, bots, hacks ou qualquer software que explore, altere ou automatize o controle, a jogabilidade ou qualquer outra funcionalidade do Jogo.<br><br>Você não deve usar nenhum processo ou software que colete ou agrupe dados gerados ou armazenados pelo Jogo.<br><br>Você não deve usar, exibir ou distribuir o Jogo juntamente com material pornográfico, racista, vulgar, obsceno, difamatório, calunioso, abusivo, que promova ódio, discrimine ou demonstre preconceito com base em religião, herança étnica, raça, gênero, orientação sexual ou idade.<br><br><b>Restrição de Direitos Autorais</b><br>Este Jogo contém material protegido por direitos autorais, segredos comerciais e outros materiais proprietários. Você não deve, e não deve tentar, modificar, fazer engenharia reversa, desmontar ou descompilar o Jogo. Você não poderá criar quaisquer trabalhos derivados ou outros trabalhos que sejam baseados ou derivados do Jogo, no todo ou em parte.<br><br>O nome, logotipo e arquivo gráfico da Dire Wolf Digital que representam o Jogo não poderão ser usados ​​de forma alguma para promover produtos que não sejam da Dire Wolf Digital. A Dire Wolf Digital detém a propriedade única e exclusiva de todos os direitos, títulos e interesses no e para o Jogo e todos os direitos de Propriedade Intelectual relacionados a ele.<br><br>A lei de direitos autorais e as disposições de tratados internacionais de direitos autorais protegem todas as partes do Jogo, produtos e serviços. Nenhum programa, código, parte, imagem, amostra de áudio ou texto pode ser copiado ou usado de qualquer forma pelo usuário, exceto conforme pretendido dentro dos limites do programa de usuário único. Todos os direitos não expressamente concedidos aqui são reservados para a Dire Wolf Digital.<br><br><b>Limitação de responsabilidade</b><br>Você indenizará, isentará de responsabilidade e defenderá a Dire Wolf Digital, seus funcionários, agentes e distribuidores contra todas e quaisquer reivindicações, processos, demandas e custos resultantes ou de qualquer forma relacionados ao seu uso do Software da Dire Wolf Digital.<br><br>Em nenhuma hipótese (incluindo, sem limitação, em caso de negligência) a Dire Wolf Digital, seus funcionários, agentes ou distribuidores serão responsáveis ​​por quaisquer danos consequenciais, incidentais, indiretos, especiais ou punitivos (incluindo, sem limitação, danos por lucros cessantes, perda de uso, interrupção de negócios, perda de informações ou dados ou perda pecuniária), em conexão com ou decorrentes de ou relacionados a este Contrato, o Jogo ou o uso ou incapacidade de usar o Jogo ou o fornecimento, desempenho ou uso de quaisquer outros assuntos aqui descritos, sejam baseados em contrato, ato ilícito ou qualquer outra teoria, incluindo negligência.<br><br><b>Garantias</b><br>Exceto quando expressamente declarado por escrito, a Dire Wolf Digital não faz nenhuma representação ou garantia em relação a este software e exclui expressamente todas as outras garantias, expressas ou implícitas, orais ou escritas, incluindo, sem limitação, quaisquer garantias implícitas de qualidade comercializável ou adequação a uma finalidade específica.
