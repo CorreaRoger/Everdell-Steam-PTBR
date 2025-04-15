@@ -47,7 +47,7 @@ Para reinserir o arquivo traduzido:
 
 ## 🛠️ Ferramentas
 
-Créditos ao [Luizera](https://github.com/luizera666) por disponibilizar as instruções de uso para a ferramenta StringEditor.
+Créditos ao [Luizera](https://github.com/luizera666) pelo desenvolvimento da ferramenta StringEditor.
 
 Na pasta `tools/stringeditor`, você encontrará uma ferramenta que facilita o processo de tradução, permitindo abrir arquivos de strings e editá-los diretamente em uma interface amigável. Para mais detalhes, consulte o [README da pasta stringeditor](tools/StringEditor/README.md).
 
