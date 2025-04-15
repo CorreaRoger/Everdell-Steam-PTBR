@@ -1,6 +1,6 @@
 # 🛠️ Editor de Strings
 
-Este diretório contém o **Editor de Strings**, uma ferramenta criada para facilitar o processo de tradução dos arquivos de texto do jogo **Root**.
+Este diretório contém o **Editor de Strings**, uma ferramenta criada para facilitar o processo de tradução dos arquivos de texto do jogo **Everdell**.
 
 ## Funcionalidades
 
