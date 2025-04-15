@@ -1,3 +1,5 @@
+Créditos ao [Luizera](https://github.com/luizera666) por disponibilizar as instruções de uso para a ferramenta StringEditor.
+
 # 🛠️ Editor de Strings
 
 Este diretório contém o **Editor de Strings**, uma ferramenta criada para facilitar o processo de tradução dos arquivos de texto do jogo **Everdell**.
